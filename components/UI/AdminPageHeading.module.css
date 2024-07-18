@@ -1,0 +1,22 @@
+.title {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.greeting{
+  font-size: 1rem;
+}
+.backIcon {
+  margin-right: 0.5rem;
+  cursor: pointer;
+  width: 2rem;
+  height: 2.1rem;
+  padding: 5px;
+  color: var(--icon);
+  border: 1px solid #8c9196;
+  border-radius: 3px;
+}
+.title h1 {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
