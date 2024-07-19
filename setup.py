@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from statsmodels.tsa.holtwinters import ExponentialSmoothing
 import subprocess
 
 # Function to run a CMD command
@@ -19,13 +18,9 @@ def run_cmd_command(command):
         print(f"An error occurred: {e}")
 
 
-command = "python.exe -m pip install --upgrade pip"
-run_cmd_command(command)
-command = "pip install pandas"
-run_cmd_command(command)
-command = "pip install numpy"
-run_cmd_command(command)
-command = "pip install matplotlib"
-run_cmd_command(command)
-command = "pip install pandas numpy matplotlib statsmodels openpyxl"
-run_cmd_command(command)
+run_cmd_command("python.exe -m pip install --upgrade pip")
+run_cmd_command("pip install pandas")
+run_cmd_command("pip install numpy")
+run_cmd_command("pip install matplotlib")
+run_cmd_command("pip install pandas numpy matplotlib statsmodels openpyxl")
+run_cmd_command("pip install statsmodels")
