@@ -1,0 +1,3002 @@
+[
+{
+"Date": "26-04-2020",
+"Confirmed": 2181,
+"Recovered": 140,
+"Deceased": 104
+},
+{
+"Date": "27-04-2020",
+"Confirmed": 2379,
+"Recovered": 212,
+"Deceased": 109
+},
+{
+"Date": "28-04-2020",
+"Confirmed": 2543,
+"Recovered": 241,
+"Deceased": 128
+},
+{
+"Date": "29-04-2020",
+"Confirmed": 2777,
+"Recovered": 263,
+"Deceased": 137
+},
+{
+"Date": "30-04-2020",
+"Confirmed": 3026,
+"Recovered": 316,
+"Deceased": 149
+},
+{
+"Date": "01-05-2020",
+"Confirmed": 3293,
+"Recovered": 399,
+"Deceased": 165
+},
+{
+"Date": "02-05-2020",
+"Confirmed": 3543,
+"Recovered": 462,
+"Deceased": 185
+},
+{
+"Date": "03-05-2020",
+"Confirmed": 3817,
+"Recovered": 533,
+"Deceased": 208
+},
+{
+"Date": "04-05-2020",
+"Confirmed": 4076,
+"Recovered": 620,
+"Deceased": 234
+},
+{
+"Date": "05-05-2020",
+"Confirmed": 4425,
+"Recovered": 704,
+"Deceased": 273
+},
+{
+"Date": "06-05-2020",
+"Confirmed": 4716,
+"Recovered": 778,
+"Deceased": 298
+},
+{
+"Date": "07-05-2020",
+"Confirmed": 4991,
+"Recovered": 886,
+"Deceased": 321
+},
+{
+"Date": "08-05-2020",
+"Confirmed": 5260,
+"Recovered": 1001,
+"Deceased": 343
+},
+{
+"Date": "09-05-2020",
+"Confirmed": 5540,
+"Recovered": 1107,
+"Deceased": 363
+},
+{
+"Date": "10-05-2020",
+"Confirmed": 5818,
+"Recovered": 1373,
+"Deceased": 381
+},
+{
+"Date": "11-05-2020",
+"Confirmed": 6086,
+"Recovered": 1482,
+"Deceased": 400
+},
+{
+"Date": "12-05-2020",
+"Confirmed": 6353,
+"Recovered": 1874,
+"Deceased": 421
+},
+{
+"Date": "13-05-2020",
+"Confirmed": 6645,
+"Recovered": 2112,
+"Deceased": 446
+},
+{
+"Date": "14-05-2020",
+"Confirmed": 6910,
+"Recovered": 2247,
+"Deceased": 465
+},
+{
+"Date": "15-05-2020",
+"Confirmed": 7171,
+"Recovered": 2382,
+"Deceased": 479
+},
+{
+"Date": "16-05-2020",
+"Confirmed": 8144,
+"Recovered": 2545,
+"Deceased": 493
+},
+{
+"Date": "17-05-2020",
+"Confirmed": 8420,
+"Recovered": 2660,
+"Deceased": 524
+},
+{
+"Date": "18-05-2020",
+"Confirmed": 8683,
+"Recovered": 2841,
+"Deceased": 555
+},
+{
+"Date": "19-05-2020",
+"Confirmed": 8945,
+"Recovered": 3023,
+"Deceased": 576
+},
+{
+"Date": "20-05-2020",
+"Confirmed": 9216,
+"Recovered": 3130,
+"Deceased": 602
+},
+{
+"Date": "21-05-2020",
+"Confirmed": 9449,
+"Recovered": 3330,
+"Deceased": 619
+},
+{
+"Date": "22-05-2020",
+"Confirmed": 9724,
+"Recovered": 3658,
+"Deceased": 645
+},
+{
+"Date": "23-05-2020",
+"Confirmed": 10001,
+"Recovered": 3864,
+"Deceased": 669
+},
+{
+"Date": "24-05-2020",
+"Confirmed": 10280,
+"Recovered": 4051,
+"Deceased": 697
+},
+{
+"Date": "25-05-2020",
+"Confirmed": 10590,
+"Recovered": 4187,
+"Deceased": 722
+},
+{
+"Date": "26-05-2020",
+"Confirmed": 10841,
+"Recovered": 4623,
+"Deceased": 745
+},
+{
+"Date": "27-05-2020",
+"Confirmed": 11097,
+"Recovered": 4950,
+"Deceased": 764
+},
+{
+"Date": "28-05-2020",
+"Confirmed": 11344,
+"Recovered": 5331,
+"Deceased": 780
+},
+{
+"Date": "29-05-2020",
+"Confirmed": 11597,
+"Recovered": 5799,
+"Deceased": 798
+},
+{
+"Date": "30-05-2020",
+"Confirmed": 11881,
+"Recovered": 6317,
+"Deceased": 822
+},
+{
+"Date": "31-05-2020",
+"Confirmed": 12180,
+"Recovered": 6918,
+"Deceased": 842
+},
+{
+"Date": "01-06-2020",
+"Confirmed": 12494,
+"Recovered": 7708,
+"Deceased": 864
+},
+{
+"Date": "02-06-2020",
+"Confirmed": 12773,
+"Recovered": 8727,
+"Deceased": 888
+},
+{
+"Date": "03-06-2020",
+"Confirmed": 13063,
+"Recovered": 8932,
+"Deceased": 910
+},
+{
+"Date": "04-06-2020",
+"Confirmed": 13354,
+"Recovered": 9228,
+"Deceased": 938
+},
+{
+"Date": "05-06-2020",
+"Confirmed": 13678,
+"Recovered": 9479,
+"Deceased": 968
+},
+{
+"Date": "06-06-2020",
+"Confirmed": 13967,
+"Recovered": 9689,
+"Deceased": 994
+},
+{
+"Date": "07-06-2020",
+"Confirmed": 14285,
+"Recovered": 9912,
+"Deceased": 1015
+},
+{
+"Date": "08-06-2020",
+"Confirmed": 14631,
+"Recovered": 10130,
+"Deceased": 1039
+},
+{
+"Date": "09-06-2020",
+"Confirmed": 14962,
+"Recovered": 10378,
+"Deceased": 1066
+},
+{
+"Date": "10-06-2020",
+"Confirmed": 15305,
+"Recovered": 10644,
+"Deceased": 1092
+},
+{
+"Date": "11-06-2020",
+"Confirmed": 15635,
+"Recovered": 10875,
+"Deceased": 1117
+},
+{
+"Date": "12-06-2020",
+"Confirmed": 15962,
+"Recovered": 11118,
+"Deceased": 1139
+},
+{
+"Date": "13-06-2020",
+"Confirmed": 16306,
+"Recovered": 11373,
+"Deceased": 1165
+},
+{
+"Date": "14-06-2020",
+"Confirmed": 16640,
+"Recovered": 11597,
+"Deceased": 1187
+},
+{
+"Date": "15-06-2020",
+"Confirmed": 16967,
+"Recovered": 11822,
+"Deceased": 1210
+},
+{
+"Date": "16-06-2020",
+"Confirmed": 17299,
+"Recovered": 12057,
+"Deceased": 1231
+},
+{
+"Date": "17-06-2020",
+"Confirmed": 17629,
+"Recovered": 12280,
+"Deceased": 1253
+},
+{
+"Date": "18-06-2020",
+"Confirmed": 17946,
+"Recovered": 12561,
+"Deceased": 1275
+},
+{
+"Date": "19-06-2020",
+"Confirmed": 18258,
+"Recovered": 12767,
+"Deceased": 1296
+},
+{
+"Date": "20-06-2020",
+"Confirmed": 18564,
+"Recovered": 13185,
+"Deceased": 1312
+},
+{
+"Date": "21-06-2020",
+"Confirmed": 18837,
+"Recovered": 13612,
+"Deceased": 1332
+},
+{
+"Date": "22-06-2020",
+"Confirmed": 19151,
+"Recovered": 14013,
+"Deceased": 1348
+},
+{
+"Date": "23-06-2020",
+"Confirmed": 19386,
+"Recovered": 14434,
+"Deceased": 1363
+},
+{
+"Date": "24-06-2020",
+"Confirmed": 19601,
+"Recovered": 14835,
+"Deceased": 1378
+},
+{
+"Date": "25-06-2020",
+"Confirmed": 19839,
+"Recovered": 15051,
+"Deceased": 1390
+},
+{
+"Date": "26-06-2020",
+"Confirmed": 20058,
+"Recovered": 15261,
+"Deceased": 1398
+},
+{
+"Date": "27-06-2020",
+"Confirmed": 20269,
+"Recovered": 15479,
+"Deceased": 1410
+},
+{
+"Date": "28-06-2020",
+"Confirmed": 20480,
+"Recovered": 15660,
+"Deceased": 1423
+},
+{
+"Date": "29-06-2020",
+"Confirmed": 20716,
+"Recovered": 15831,
+"Deceased": 1432
+},
+{
+"Date": "30-06-2020",
+"Confirmed": 20913,
+"Recovered": 15968,
+"Deceased": 1441
+},
+{
+"Date": "01-07-2020",
+"Confirmed": 21128,
+"Recovered": 16093,
+"Deceased": 1449
+},
+{
+"Date": "02-07-2020",
+"Confirmed": 21339,
+"Recovered": 16254,
+"Deceased": 1456
+},
+{
+"Date": "03-07-2020",
+"Confirmed": 21543,
+"Recovered": 16385,
+"Deceased": 1466
+},
+{
+"Date": "04-07-2020",
+"Confirmed": 21715,
+"Recovered": 16613,
+"Deceased": 1475
+},
+{
+"Date": "05-07-2020",
+"Confirmed": 21892,
+"Recovered": 16829,
+"Deceased": 1484
+},
+{
+"Date": "06-07-2020",
+"Confirmed": 22075,
+"Recovered": 17069,
+"Deceased": 1491
+},
+{
+"Date": "07-07-2020",
+"Confirmed": 22262,
+"Recovered": 17193,
+"Deceased": 1496
+},
+{
+"Date": "08-07-2020",
+"Confirmed": 22418,
+"Recovered": 17363,
+"Deceased": 1501
+},
+{
+"Date": "09-07-2020",
+"Confirmed": 22580,
+"Recovered": 17502,
+"Deceased": 1506
+},
+{
+"Date": "10-07-2020",
+"Confirmed": 22745,
+"Recovered": 17663,
+"Deceased": 1511
+},
+{
+"Date": "11-07-2020",
+"Confirmed": 22923,
+"Recovered": 17789,
+"Deceased": 1515
+},
+{
+"Date": "12-07-2020",
+"Confirmed": 23095,
+"Recovered": 17922,
+"Deceased": 1519
+},
+{
+"Date": "13-07-2020",
+"Confirmed": 23259,
+"Recovered": 18047,
+"Deceased": 1522
+},
+{
+"Date": "14-07-2020",
+"Confirmed": 23426,
+"Recovered": 18227,
+"Deceased": 1525
+},
+{
+"Date": "15-07-2020",
+"Confirmed": 23599,
+"Recovered": 18439,
+"Deceased": 1527
+},
+{
+"Date": "16-07-2020",
+"Confirmed": 23780,
+"Recovered": 18627,
+"Deceased": 1532
+},
+{
+"Date": "17-07-2020",
+"Confirmed": 23964,
+"Recovered": 18792,
+"Deceased": 1537
+},
+{
+"Date": "18-07-2020",
+"Confirmed": 24163,
+"Recovered": 18961,
+"Deceased": 1541
+},
+{
+"Date": "19-07-2020",
+"Confirmed": 24375,
+"Recovered": 19128,
+"Deceased": 1547
+},
+{
+"Date": "20-07-2020",
+"Confirmed": 24568,
+"Recovered": 19328,
+"Deceased": 1551
+},
+{
+"Date": "21-07-2020",
+"Confirmed": 24767,
+"Recovered": 19533,
+"Deceased": 1557
+},
+{
+"Date": "22-07-2020",
+"Confirmed": 24963,
+"Recovered": 19745,
+"Deceased": 1560
+},
+{
+"Date": "23-07-2020",
+"Confirmed": 25173,
+"Recovered": 19948,
+"Deceased": 1565
+},
+{
+"Date": "24-07-2020",
+"Confirmed": 25349,
+"Recovered": 20153,
+"Deceased": 1568
+},
+{
+"Date": "25-07-2020",
+"Confirmed": 25529,
+"Recovered": 20323,
+"Deceased": 1572
+},
+{
+"Date": "26-07-2020",
+"Confirmed": 25692,
+"Recovered": 20491,
+"Deceased": 1575
+},
+{
+"Date": "27-07-2020",
+"Confirmed": 25876,
+"Recovered": 20954,
+"Deceased": 1579
+},
+{
+"Date": "28-07-2020",
+"Confirmed": 26032,
+"Recovered": 21120,
+"Deceased": 1583
+},
+{
+"Date": "29-07-2020",
+"Confirmed": 26184,
+"Recovered": 21237,
+"Deceased": 1588
+},
+{
+"Date": "30-07-2020",
+"Confirmed": 26341,
+"Recovered": 21356,
+"Deceased": 1593
+},
+{
+"Date": "31-07-2020",
+"Confirmed": 26517,
+"Recovered": 21468,
+"Deceased": 1597
+},
+{
+"Date": "01-08-2020",
+"Confirmed": 26663,
+"Recovered": 21585,
+"Deceased": 1601
+},
+{
+"Date": "02-08-2020",
+"Confirmed": 26818,
+"Recovered": 21692,
+"Deceased": 1603
+},
+{
+"Date": "03-08-2020",
+"Confirmed": 26969,
+"Recovered": 21801,
+"Deceased": 1609
+},
+{
+"Date": "04-08-2020",
+"Confirmed": 27122,
+"Recovered": 21908,
+"Deceased": 1612
+},
+{
+"Date": "05-08-2020",
+"Confirmed": 27283,
+"Recovered": 22035,
+"Deceased": 1617
+},
+{
+"Date": "06-08-2020",
+"Confirmed": 27434,
+"Recovered": 22152,
+"Deceased": 1622
+},
+{
+"Date": "07-08-2020",
+"Confirmed": 27587,
+"Recovered": 22272,
+"Deceased": 1625
+},
+{
+"Date": "08-08-2020",
+"Confirmed": 27745,
+"Recovered": 22393,
+"Deceased": 1630
+},
+{
+"Date": "09-08-2020",
+"Confirmed": 27898,
+"Recovered": 22499,
+"Deceased": 1633
+},
+{
+"Date": "10-08-2020",
+"Confirmed": 28042,
+"Recovered": 22612,
+"Deceased": 1637
+},
+{
+"Date": "11-08-2020",
+"Confirmed": 28192,
+"Recovered": 22816,
+"Deceased": 1640
+},
+{
+"Date": "12-08-2020",
+"Confirmed": 28351,
+"Recovered": 23038,
+"Deceased": 1644
+},
+{
+"Date": "13-08-2020",
+"Confirmed": 28517,
+"Recovered": 23273,
+"Deceased": 1648
+},
+{
+"Date": "14-08-2020",
+"Confirmed": 28678,
+"Recovered": 23520,
+"Deceased": 1652
+},
+{
+"Date": "15-08-2020",
+"Confirmed": 28840,
+"Recovered": 23708,
+"Deceased": 1655
+},
+{
+"Date": "16-08-2020",
+"Confirmed": 29004,
+"Recovered": 23882,
+"Deceased": 1659
+},
+{
+"Date": "17-08-2020",
+"Confirmed": 29162,
+"Recovered": 24064,
+"Deceased": 1662
+},
+{
+"Date": "18-08-2020",
+"Confirmed": 29327,
+"Recovered": 24242,
+"Deceased": 1666
+},
+{
+"Date": "19-08-2020",
+"Confirmed": 29490,
+"Recovered": 24422,
+"Deceased": 1670
+},
+{
+"Date": "20-08-2020",
+"Confirmed": 29662,
+"Recovered": 24589,
+"Deceased": 1674
+},
+{
+"Date": "21-08-2020",
+"Confirmed": 29841,
+"Recovered": 24756,
+"Deceased": 1677
+},
+{
+"Date": "22-08-2020",
+"Confirmed": 30020,
+"Recovered": 24932,
+"Deceased": 1680
+},
+{
+"Date": "23-08-2020",
+"Confirmed": 30197,
+"Recovered": 25104,
+"Deceased": 1685
+},
+{
+"Date": "24-08-2020",
+"Confirmed": 30362,
+"Recovered": 25268,
+"Deceased": 1688
+},
+{
+"Date": "25-08-2020",
+"Confirmed": 30519,
+"Recovered": 25441,
+"Deceased": 1692
+},
+{
+"Date": "26-08-2020",
+"Confirmed": 30682,
+"Recovered": 25605,
+"Deceased": 1697
+},
+{
+"Date": "27-08-2020",
+"Confirmed": 30845,
+"Recovered": 25757,
+"Deceased": 1700
+},
+{
+"Date": "28-08-2020",
+"Confirmed": 31013,
+"Recovered": 25919,
+"Deceased": 1705
+},
+{
+"Date": "29-08-2020",
+"Confirmed": 31177,
+"Recovered": 26079,
+"Deceased": 1708
+},
+{
+"Date": "30-08-2020",
+"Confirmed": 31346,
+"Recovered": 26243,
+"Deceased": 1712
+},
+{
+"Date": "31-08-2020",
+"Confirmed": 31519,
+"Recovered": 26371,
+"Deceased": 1715
+},
+{
+"Date": "01-09-2020",
+"Confirmed": 31678,
+"Recovered": 26455,
+"Deceased": 1719
+},
+{
+"Date": "02-09-2020",
+"Confirmed": 31847,
+"Recovered": 26541,
+"Deceased": 1722
+},
+{
+"Date": "03-09-2020",
+"Confirmed": 32013,
+"Recovered": 26617,
+"Deceased": 1725
+},
+{
+"Date": "04-09-2020",
+"Confirmed": 32184,
+"Recovered": 26702,
+"Deceased": 1729
+},
+{
+"Date": "05-09-2020",
+"Confirmed": 32351,
+"Recovered": 26780,
+"Deceased": 1731
+},
+{
+"Date": "06-09-2020",
+"Confirmed": 32524,
+"Recovered": 26857,
+"Deceased": 1734
+},
+{
+"Date": "07-09-2020",
+"Confirmed": 32696,
+"Recovered": 26938,
+"Deceased": 1737
+},
+{
+"Date": "08-09-2020",
+"Confirmed": 32866,
+"Recovered": 27033,
+"Deceased": 1740
+},
+{
+"Date": "09-09-2020",
+"Confirmed": 33037,
+"Recovered": 27154,
+"Deceased": 1744
+},
+{
+"Date": "10-09-2020",
+"Confirmed": 33204,
+"Recovered": 27288,
+"Deceased": 1748
+},
+{
+"Date": "11-09-2020",
+"Confirmed": 33378,
+"Recovered": 27415,
+"Deceased": 1751
+},
+{
+"Date": "12-09-2020",
+"Confirmed": 33553,
+"Recovered": 27566,
+"Deceased": 1754
+},
+{
+"Date": "13-09-2020",
+"Confirmed": 33725,
+"Recovered": 27722,
+"Deceased": 1758
+},
+{
+"Date": "14-09-2020",
+"Confirmed": 33900,
+"Recovered": 27915,
+"Deceased": 1761
+},
+{
+"Date": "15-09-2020",
+"Confirmed": 34072,
+"Recovered": 28130,
+"Deceased": 1765
+},
+{
+"Date": "16-09-2020",
+"Confirmed": 34237,
+"Recovered": 28374,
+"Deceased": 1768
+},
+{
+"Date": "17-09-2020",
+"Confirmed": 34408,
+"Recovered": 28598,
+"Deceased": 1772
+},
+{
+"Date": "18-09-2020",
+"Confirmed": 34581,
+"Recovered": 28801,
+"Deceased": 1775
+},
+{
+"Date": "19-09-2020",
+"Confirmed": 34759,
+"Recovered": 28985,
+"Deceased": 1778
+},
+{
+"Date": "20-09-2020",
+"Confirmed": 34942,
+"Recovered": 29130,
+"Deceased": 1782
+},
+{
+"Date": "21-09-2020",
+"Confirmed": 35119,
+"Recovered": 29250,
+"Deceased": 1785
+},
+{
+"Date": "22-09-2020",
+"Confirmed": 35304,
+"Recovered": 29374,
+"Deceased": 1788
+},
+{
+"Date": "23-09-2020",
+"Confirmed": 35489,
+"Recovered": 29503,
+"Deceased": 1791
+},
+{
+"Date": "24-09-2020",
+"Confirmed": 35672,
+"Recovered": 29626,
+"Deceased": 1794
+},
+{
+"Date": "25-09-2020",
+"Confirmed": 35854,
+"Recovered": 29751,
+"Deceased": 1797
+},
+{
+"Date": "26-09-2020",
+"Confirmed": 36049,
+"Recovered": 29933,
+"Deceased": 1800
+},
+{
+"Date": "27-09-2020",
+"Confirmed": 36246,
+"Recovered": 30135,
+"Deceased": 1803
+},
+{
+"Date": "28-09-2020",
+"Confirmed": 36456,
+"Recovered": 30345,
+"Deceased": 1806
+},
+{
+"Date": "29-09-2020",
+"Confirmed": 36651,
+"Recovered": 30581,
+"Deceased": 1809
+},
+{
+"Date": "30-09-2020",
+"Confirmed": 36848,
+"Recovered": 30848,
+"Deceased": 1812
+},
+{
+"Date": "01-10-2020",
+"Confirmed": 37041,
+"Recovered": 31104,
+"Deceased": 1815
+},
+{
+"Date": "02-10-2020",
+"Confirmed": 37239,
+"Recovered": 31362,
+"Deceased": 1818
+},
+{
+"Date": "03-10-2020",
+"Confirmed": 37433,
+"Recovered": 31616,
+"Deceased": 1822
+},
+{
+"Date": "04-10-2020",
+"Confirmed": 37624,
+"Recovered": 31888,
+"Deceased": 1825
+},
+{
+"Date": "05-10-2020",
+"Confirmed": 37811,
+"Recovered": 32154,
+"Deceased": 1828
+},
+{
+"Date": "06-10-2020",
+"Confirmed": 37998,
+"Recovered": 32415,
+"Deceased": 1831
+},
+{
+"Date": "07-10-2020",
+"Confirmed": 38186,
+"Recovered": 32687,
+"Deceased": 1835
+},
+{
+"Date": "08-10-2020",
+"Confirmed": 38381,
+"Recovered": 32929,
+"Deceased": 1838
+},
+{
+"Date": "09-10-2020",
+"Confirmed": 38561,
+"Recovered": 33145,
+"Deceased": 1841
+},
+{
+"Date": "10-10-2020",
+"Confirmed": 38737,
+"Recovered": 33350,
+"Deceased": 1845
+},
+{
+"Date": "11-10-2020",
+"Confirmed": 38926,
+"Recovered": 33548,
+"Deceased": 1849
+},
+{
+"Date": "12-10-2020",
+"Confirmed": 39110,
+"Recovered": 33740,
+"Deceased": 1852
+},
+{
+"Date": "13-10-2020",
+"Confirmed": 39287,
+"Recovered": 33940,
+"Deceased": 1855
+},
+{
+"Date": "14-10-2020",
+"Confirmed": 39469,
+"Recovered": 34140,
+"Deceased": 1859
+},
+{
+"Date": "15-10-2020",
+"Confirmed": 39655,
+"Recovered": 34320,
+"Deceased": 1863
+},
+{
+"Date": "16-10-2020",
+"Confirmed": 39844,
+"Recovered": 34497,
+"Deceased": 1866
+},
+{
+"Date": "17-10-2020",
+"Confirmed": 40027,
+"Recovered": 34676,
+"Deceased": 1868
+},
+{
+"Date": "18-10-2020",
+"Confirmed": 40210,
+"Recovered": 34866,
+"Deceased": 1873
+},
+{
+"Date": "19-10-2020",
+"Confirmed": 40388,
+"Recovered": 35056,
+"Deceased": 1876
+},
+{
+"Date": "20-10-2020",
+"Confirmed": 40566,
+"Recovered": 35232,
+"Deceased": 1878
+},
+{
+"Date": "21-10-2020",
+"Confirmed": 40743,
+"Recovered": 35413,
+"Deceased": 1880
+},
+{
+"Date": "22-10-2020",
+"Confirmed": 40922,
+"Recovered": 35588,
+"Deceased": 1883
+},
+{
+"Date": "23-10-2020",
+"Confirmed": 41104,
+"Recovered": 35759,
+"Deceased": 1885
+},
+{
+"Date": "24-10-2020",
+"Confirmed": 41281,
+"Recovered": 35892,
+"Deceased": 1887
+},
+{
+"Date": "25-10-2020",
+"Confirmed": 41455,
+"Recovered": 35999,
+"Deceased": 1890
+},
+{
+"Date": "26-10-2020",
+"Confirmed": 41628,
+"Recovered": 36111,
+"Deceased": 1892
+},
+{
+"Date": "27-10-2020",
+"Confirmed": 41798,
+"Recovered": 36439,
+"Deceased": 1894
+},
+{
+"Date": "28-10-2020",
+"Confirmed": 41984,
+"Recovered": 36666,
+"Deceased": 1897
+},
+{
+"Date": "29-10-2020",
+"Confirmed": 42155,
+"Recovered": 36885,
+"Deceased": 1898
+},
+{
+"Date": "30-10-2020",
+"Confirmed": 42336,
+"Recovered": 37109,
+"Deceased": 1900
+},
+{
+"Date": "31-10-2020",
+"Confirmed": 42514,
+"Recovered": 37334,
+"Deceased": 1902
+},
+{
+"Date": "01-11-2020",
+"Confirmed": 42691,
+"Recovered": 37553,
+"Deceased": 1904
+},
+{
+"Date": "02-11-2020",
+"Confirmed": 42868,
+"Recovered": 37667,
+"Deceased": 1906
+},
+{
+"Date": "03-11-2020",
+"Confirmed": 43034,
+"Recovered": 37835,
+"Deceased": 1908
+},
+{
+"Date": "04-11-2020",
+"Confirmed": 43208,
+"Recovered": 38009,
+"Deceased": 1911
+},
+{
+"Date": "05-11-2020",
+"Confirmed": 43381,
+"Recovered": 38185,
+"Deceased": 1913
+},
+{
+"Date": "06-11-2020",
+"Confirmed": 43556,
+"Recovered": 38427,
+"Deceased": 1915
+},
+{
+"Date": "07-11-2020",
+"Confirmed": 43738,
+"Recovered": 38634,
+"Deceased": 1917
+},
+{
+"Date": "08-11-2020",
+"Confirmed": 43923,
+"Recovered": 38833,
+"Deceased": 1919
+},
+{
+"Date": "09-11-2020",
+"Confirmed": 44106,
+"Recovered": 39017,
+"Deceased": 1921
+},
+{
+"Date": "10-11-2020",
+"Confirmed": 44284,
+"Recovered": 39172,
+"Deceased": 1924
+},
+{
+"Date": "11-11-2020",
+"Confirmed": 44491,
+"Recovered": 39321,
+"Deceased": 1926
+},
+{
+"Date": "12-11-2020",
+"Confirmed": 44690,
+"Recovered": 39481,
+"Deceased": 1929
+},
+{
+"Date": "13-11-2020",
+"Confirmed": 44909,
+"Recovered": 39666,
+"Deceased": 1932
+},
+{
+"Date": "14-11-2020",
+"Confirmed": 45124,
+"Recovered": 39861,
+"Deceased": 1934
+},
+{
+"Date": "15-11-2020",
+"Confirmed": 45343,
+"Recovered": 40090,
+"Deceased": 1937
+},
+{
+"Date": "16-11-2020",
+"Confirmed": 45568,
+"Recovered": 40315,
+"Deceased": 1940
+},
+{
+"Date": "17-11-2020",
+"Confirmed": 45802,
+"Recovered": 40532,
+"Deceased": 1944
+},
+{
+"Date": "18-11-2020",
+"Confirmed": 46022,
+"Recovered": 40753,
+"Deceased": 1949
+},
+{
+"Date": "19-11-2020",
+"Confirmed": 46268,
+"Recovered": 41016,
+"Deceased": 1952
+},
+{
+"Date": "20-11-2020",
+"Confirmed": 46595,
+"Recovered": 41287,
+"Deceased": 1955
+},
+{
+"Date": "21-11-2020",
+"Confirmed": 46968,
+"Recovered": 41609,
+"Deceased": 1960
+},
+{
+"Date": "22-11-2020",
+"Confirmed": 47309,
+"Recovered": 41979,
+"Deceased": 1968
+},
+{
+"Date": "23-11-2020",
+"Confirmed": 47653,
+"Recovered": 42332,
+"Deceased": 1981
+},
+{
+"Date": "24-11-2020",
+"Confirmed": 48000,
+"Recovered": 42694,
+"Deceased": 1993
+},
+{
+"Date": "25-11-2020",
+"Confirmed": 48349,
+"Recovered": 43045,
+"Deceased": 2003
+},
+{
+"Date": "26-11-2020",
+"Confirmed": 48710,
+"Recovered": 43402,
+"Deceased": 2015
+},
+{
+"Date": "27-11-2020",
+"Confirmed": 49063,
+"Recovered": 43758,
+"Deceased": 2026
+},
+{
+"Date": "28-11-2020",
+"Confirmed": 49420,
+"Recovered": 44135,
+"Deceased": 2036
+},
+{
+"Date": "29-11-2020",
+"Confirmed": 49765,
+"Recovered": 44495,
+"Deceased": 2047
+},
+{
+"Date": "30-11-2020",
+"Confirmed": 50077,
+"Recovered": 44839,
+"Deceased": 2060
+},
+{
+"Date": "01-12-2020",
+"Confirmed": 50409,
+"Recovered": 45160,
+"Deceased": 2070
+},
+{
+"Date": "02-12-2020",
+"Confirmed": 50734,
+"Recovered": 45490,
+"Deceased": 2078
+},
+{
+"Date": "03-12-2020",
+"Confirmed": 51070,
+"Recovered": 45813,
+"Deceased": 2087
+},
+{
+"Date": "04-12-2020",
+"Confirmed": 51392,
+"Recovered": 46151,
+"Deceased": 2100
+},
+{
+"Date": "05-12-2020",
+"Confirmed": 51724,
+"Recovered": 46495,
+"Deceased": 2109
+},
+{
+"Date": "06-12-2020",
+"Confirmed": 52030,
+"Recovered": 46805,
+"Deceased": 2119
+},
+{
+"Date": "07-12-2020",
+"Confirmed": 52336,
+"Recovered": 47119,
+"Deceased": 2128
+},
+{
+"Date": "08-12-2020",
+"Confirmed": 52630,
+"Recovered": 47414,
+"Deceased": 2137
+},
+{
+"Date": "09-12-2020",
+"Confirmed": 52910,
+"Recovered": 47707,
+"Deceased": 2145
+},
+{
+"Date": "10-12-2020",
+"Confirmed": 53188,
+"Recovered": 47986,
+"Deceased": 2152
+},
+{
+"Date": "11-12-2020",
+"Confirmed": 53454,
+"Recovered": 48256,
+"Deceased": 2160
+},
+{
+"Date": "12-12-2020",
+"Confirmed": 53714,
+"Recovered": 48524,
+"Deceased": 2165
+},
+{
+"Date": "13-12-2020",
+"Confirmed": 53961,
+"Recovered": 48792,
+"Deceased": 2173
+},
+{
+"Date": "14-12-2020",
+"Confirmed": 54208,
+"Recovered": 49030,
+"Deceased": 2180
+},
+{
+"Date": "15-12-2020",
+"Confirmed": 54447,
+"Recovered": 49269,
+"Deceased": 2188
+},
+{
+"Date": "16-12-2020",
+"Confirmed": 54686,
+"Recovered": 49499,
+"Deceased": 2193
+},
+{
+"Date": "17-12-2020",
+"Confirmed": 54918,
+"Recovered": 49727,
+"Deceased": 2197
+},
+{
+"Date": "18-12-2020",
+"Confirmed": 55150,
+"Recovered": 49950,
+"Deceased": 2201
+},
+{
+"Date": "19-12-2020",
+"Confirmed": 55370,
+"Recovered": 50166,
+"Deceased": 2205
+},
+{
+"Date": "20-12-2020",
+"Confirmed": 55585,
+"Recovered": 50383,
+"Deceased": 2210
+},
+{
+"Date": "21-12-2020",
+"Confirmed": 55796,
+"Recovered": 50588,
+"Deceased": 2214
+},
+{
+"Date": "22-12-2020",
+"Confirmed": 56005,
+"Recovered": 50801,
+"Deceased": 2219
+},
+{
+"Date": "23-12-2020",
+"Confirmed": 56207,
+"Recovered": 51022,
+"Deceased": 2223
+},
+{
+"Date": "24-12-2020",
+"Confirmed": 56412,
+"Recovered": 51216,
+"Deceased": 2226
+},
+{
+"Date": "25-12-2020",
+"Confirmed": 56603,
+"Recovered": 51415,
+"Deceased": 2229
+},
+{
+"Date": "26-12-2020",
+"Confirmed": 56788,
+"Recovered": 51607,
+"Deceased": 2233
+},
+{
+"Date": "27-12-2020",
+"Confirmed": 56966,
+"Recovered": 51790,
+"Deceased": 2237
+},
+{
+"Date": "28-12-2020",
+"Confirmed": 57140,
+"Recovered": 51970,
+"Deceased": 2240
+},
+{
+"Date": "29-12-2020",
+"Confirmed": 57310,
+"Recovered": 52143,
+"Deceased": 2243
+},
+{
+"Date": "30-12-2020",
+"Confirmed": 57474,
+"Recovered": 52312,
+"Deceased": 2246
+},
+{
+"Date": "31-12-2020",
+"Confirmed": 57634,
+"Recovered": 52475,
+"Deceased": 2249
+},
+{
+"Date": "01-01-2021",
+"Confirmed": 57792,
+"Recovered": 52632,
+"Deceased": 2251
+},
+{
+"Date": "02-01-2021",
+"Confirmed": 57944,
+"Recovered": 52788,
+"Deceased": 2254
+},
+{
+"Date": "03-01-2021",
+"Confirmed": 58095,
+"Recovered": 52939,
+"Deceased": 2256
+},
+{
+"Date": "04-01-2021",
+"Confirmed": 58239,
+"Recovered": 53087,
+"Deceased": 2258
+},
+{
+"Date": "05-01-2021",
+"Confirmed": 58380,
+"Recovered": 53229,
+"Deceased": 2260
+},
+{
+"Date": "06-01-2021",
+"Confirmed": 58519,
+"Recovered": 53366,
+"Deceased": 2261
+},
+{
+"Date": "07-01-2021",
+"Confirmed": 58652,
+"Recovered": 53503,
+"Deceased": 2263
+},
+{
+"Date": "08-01-2021",
+"Confirmed": 58786,
+"Recovered": 53673,
+"Deceased": 2265
+},
+{
+"Date": "09-01-2021",
+"Confirmed": 58915,
+"Recovered": 53824,
+"Deceased": 2267
+},
+{
+"Date": "10-01-2021",
+"Confirmed": 59041,
+"Recovered": 53975,
+"Deceased": 2269
+},
+{
+"Date": "11-01-2021",
+"Confirmed": 59169,
+"Recovered": 54102,
+"Deceased": 2271
+},
+{
+"Date": "12-01-2021",
+"Confirmed": 59302,
+"Recovered": 54272,
+"Deceased": 2272
+},
+{
+"Date": "13-01-2021",
+"Confirmed": 59418,
+"Recovered": 54442,
+"Deceased": 2274
+},
+{
+"Date": "14-01-2021",
+"Confirmed": 59530,
+"Recovered": 54626,
+"Deceased": 2275
+},
+{
+"Date": "15-01-2021",
+"Confirmed": 59639,
+"Recovered": 54811,
+"Deceased": 2276
+},
+{
+"Date": "16-01-2021",
+"Confirmed": 59741,
+"Recovered": 54988,
+"Deceased": 2277
+},
+{
+"Date": "17-01-2021",
+"Confirmed": 59840,
+"Recovered": 55164,
+"Deceased": 2279
+},
+{
+"Date": "18-01-2021",
+"Confirmed": 59941,
+"Recovered": 55338,
+"Deceased": 2281
+},
+{
+"Date": "19-01-2021",
+"Confirmed": 60044,
+"Recovered": 55516,
+"Deceased": 2282
+},
+{
+"Date": "20-01-2021",
+"Confirmed": 60149,
+"Recovered": 55694,
+"Deceased": 2284
+},
+{
+"Date": "21-01-2021",
+"Confirmed": 60244,
+"Recovered": 55877,
+"Deceased": 2285
+},
+{
+"Date": "22-01-2021",
+"Confirmed": 60335,
+"Recovered": 56058,
+"Deceased": 2286
+},
+{
+"Date": "23-01-2021",
+"Confirmed": 60420,
+"Recovered": 56244,
+"Deceased": 2287
+},
+{
+"Date": "24-01-2021",
+"Confirmed": 60512,
+"Recovered": 56403,
+"Deceased": 2287
+},
+{
+"Date": "25-01-2021",
+"Confirmed": 60606,
+"Recovered": 56563,
+"Deceased": 2289
+},
+{
+"Date": "26-01-2021",
+"Confirmed": 60695,
+"Recovered": 56723,
+"Deceased": 2290
+},
+{
+"Date": "27-01-2021",
+"Confirmed": 60770,
+"Recovered": 56863,
+"Deceased": 2291
+},
+{
+"Date": "28-01-2021",
+"Confirmed": 60848,
+"Recovered": 57042,
+"Deceased": 2292
+},
+{
+"Date": "29-01-2021",
+"Confirmed": 60925,
+"Recovered": 57154,
+"Deceased": 2293
+},
+{
+"Date": "30-01-2021",
+"Confirmed": 60991,
+"Recovered": 57265,
+"Deceased": 2295
+},
+{
+"Date": "31-01-2021",
+"Confirmed": 61064,
+"Recovered": 57344,
+"Deceased": 2295
+},
+{
+"Date": "01-02-2021",
+"Confirmed": 61128,
+"Recovered": 57426,
+"Deceased": 2295
+},
+{
+"Date": "02-02-2021",
+"Confirmed": 61189,
+"Recovered": 57495,
+"Deceased": 2296
+},
+{
+"Date": "03-02-2021",
+"Confirmed": 61241,
+"Recovered": 57652,
+"Deceased": 2297
+},
+{
+"Date": "04-02-2021",
+"Confirmed": 61289,
+"Recovered": 57794,
+"Deceased": 2297
+},
+{
+"Date": "05-02-2021",
+"Confirmed": 61334,
+"Recovered": 57915,
+"Deceased": 2298
+},
+{
+"Date": "06-02-2021",
+"Confirmed": 61375,
+"Recovered": 58036,
+"Deceased": 2298
+},
+{
+"Date": "07-02-2021",
+"Confirmed": 61428,
+"Recovered": 58154,
+"Deceased": 2299
+},
+{
+"Date": "08-02-2021",
+"Confirmed": 61477,
+"Recovered": 58322,
+"Deceased": 2300
+},
+{
+"Date": "09-02-2021",
+"Confirmed": 61521,
+"Recovered": 58445,
+"Deceased": 2301
+},
+{
+"Date": "10-02-2021",
+"Confirmed": 61568,
+"Recovered": 58682,
+"Deceased": 2301
+},
+{
+"Date": "11-02-2021",
+"Confirmed": 61617,
+"Recovered": 58744,
+"Deceased": 2303
+},
+{
+"Date": "12-02-2021",
+"Confirmed": 61677,
+"Recovered": 58805,
+"Deceased": 2304
+},
+{
+"Date": "13-02-2021",
+"Confirmed": 61737,
+"Recovered": 58869,
+"Deceased": 2304
+},
+{
+"Date": "14-02-2021",
+"Confirmed": 61787,
+"Recovered": 58928,
+"Deceased": 2305
+},
+{
+"Date": "15-02-2021",
+"Confirmed": 61836,
+"Recovered": 58987,
+"Deceased": 2305
+},
+{
+"Date": "16-02-2021",
+"Confirmed": 61892,
+"Recovered": 59044,
+"Deceased": 2306
+},
+{
+"Date": "17-02-2021",
+"Confirmed": 61951,
+"Recovered": 59104,
+"Deceased": 2307
+},
+{
+"Date": "18-02-2021",
+"Confirmed": 62003,
+"Recovered": 59162,
+"Deceased": 2307
+},
+{
+"Date": "19-02-2021",
+"Confirmed": 62050,
+"Recovered": 59219,
+"Deceased": 2308
+},
+{
+"Date": "20-02-2021",
+"Confirmed": 62095,
+"Recovered": 59272,
+"Deceased": 2308
+},
+{
+"Date": "21-02-2021",
+"Confirmed": 62163,
+"Recovered": 59328,
+"Deceased": 2308
+},
+{
+"Date": "22-02-2021",
+"Confirmed": 62235,
+"Recovered": 59378,
+"Deceased": 2309
+},
+{
+"Date": "23-02-2021",
+"Confirmed": 62309,
+"Recovered": 59440,
+"Deceased": 2309
+},
+{
+"Date": "24-02-2021",
+"Confirmed": 62393,
+"Recovered": 59506,
+"Deceased": 2310
+},
+{
+"Date": "25-02-2021",
+"Confirmed": 62468,
+"Recovered": 59592,
+"Deceased": 2311
+},
+{
+"Date": "26-02-2021",
+"Confirmed": 62569,
+"Recovered": 59665,
+"Deceased": 2311
+},
+{
+"Date": "27-02-2021",
+"Confirmed": 62675,
+"Recovered": 59749,
+"Deceased": 2312
+},
+{
+"Date": "28-02-2021",
+"Confirmed": 62783,
+"Recovered": 59838,
+"Deceased": 2313
+},
+{
+"Date": "01-03-2021",
+"Confirmed": 62882,
+"Recovered": 59926,
+"Deceased": 2314
+},
+{
+"Date": "02-03-2021",
+"Confirmed": 62996,
+"Recovered": 60016,
+"Deceased": 2314
+},
+{
+"Date": "03-03-2021",
+"Confirmed": 63113,
+"Recovered": 60114,
+"Deceased": 2315
+},
+{
+"Date": "04-03-2021",
+"Confirmed": 63214,
+"Recovered": 60221,
+"Deceased": 2315
+},
+{
+"Date": "05-03-2021",
+"Confirmed": 63329,
+"Recovered": 60323,
+"Deceased": 2316
+},
+{
+"Date": "06-03-2021",
+"Confirmed": 63453,
+"Recovered": 60432,
+"Deceased": 2317
+},
+{
+"Date": "07-03-2021",
+"Confirmed": 63584,
+"Recovered": 60545,
+"Deceased": 2318
+},
+{
+"Date": "08-03-2021",
+"Confirmed": 63713,
+"Recovered": 60665,
+"Deceased": 2319
+},
+{
+"Date": "09-03-2021",
+"Confirmed": 63839,
+"Recovered": 60791,
+"Deceased": 2320
+},
+{
+"Date": "10-03-2021",
+"Confirmed": 63986,
+"Recovered": 60912,
+"Deceased": 2320
+},
+{
+"Date": "11-03-2021",
+"Confirmed": 64139,
+"Recovered": 61034,
+"Deceased": 2320
+},
+{
+"Date": "12-03-2021",
+"Confirmed": 64284,
+"Recovered": 61172,
+"Deceased": 2321
+},
+{
+"Date": "13-03-2021",
+"Confirmed": 64471,
+"Recovered": 61310,
+"Deceased": 2322
+},
+{
+"Date": "14-03-2021",
+"Confirmed": 64636,
+"Recovered": 61463,
+"Deceased": 2323
+},
+{
+"Date": "15-03-2021",
+"Confirmed": 64845,
+"Recovered": 61613,
+"Deceased": 2323
+},
+{
+"Date": "16-03-2021",
+"Confirmed": 65092,
+"Recovered": 61762,
+"Deceased": 2325
+},
+{
+"Date": "17-03-2021",
+"Confirmed": 65363,
+"Recovered": 61970,
+"Deceased": 2326
+},
+{
+"Date": "18-03-2021",
+"Confirmed": 65667,
+"Recovered": 62225,
+"Deceased": 2328
+},
+{
+"Date": "19-03-2021",
+"Confirmed": 66011,
+"Recovered": 62485,
+"Deceased": 2329
+},
+{
+"Date": "20-03-2021",
+"Confirmed": 66417,
+"Recovered": 62768,
+"Deceased": 2331
+},
+{
+"Date": "21-03-2021",
+"Confirmed": 66868,
+"Recovered": 63068,
+"Deceased": 2334
+},
+{
+"Date": "22-03-2021",
+"Confirmed": 67354,
+"Recovered": 63424,
+"Deceased": 2336
+},
+{
+"Date": "23-03-2021",
+"Confirmed": 67863,
+"Recovered": 63810,
+"Deceased": 2338
+},
+{
+"Date": "24-03-2021",
+"Confirmed": 68377,
+"Recovered": 64271,
+"Deceased": 2340
+},
+{
+"Date": "25-03-2021",
+"Confirmed": 68935,
+"Recovered": 64735,
+"Deceased": 2341
+},
+{
+"Date": "26-03-2021",
+"Confirmed": 69548,
+"Recovered": 65242,
+"Deceased": 2342
+},
+{
+"Date": "27-03-2021",
+"Confirmed": 70160,
+"Recovered": 65789,
+"Deceased": 2343
+},
+{
+"Date": "28-03-2021",
+"Confirmed": 70775,
+"Recovered": 66377,
+"Deceased": 2345
+},
+{
+"Date": "29-03-2021",
+"Confirmed": 71387,
+"Recovered": 66964,
+"Deceased": 2348
+},
+{
+"Date": "30-03-2021",
+"Confirmed": 72000,
+"Recovered": 67550,
+"Deceased": 2353
+},
+{
+"Date": "31-03-2021",
+"Confirmed": 72620,
+"Recovered": 68145,
+"Deceased": 2356
+},
+{
+"Date": "01-04-2021",
+"Confirmed": 73246,
+"Recovered": 68743,
+"Deceased": 2359
+},
+{
+"Date": "02-04-2021",
+"Confirmed": 73875,
+"Recovered": 69342,
+"Deceased": 2362
+},
+{
+"Date": "03-04-2021",
+"Confirmed": 74531,
+"Recovered": 69956,
+"Deceased": 2366
+},
+{
+"Date": "04-04-2021",
+"Confirmed": 75207,
+"Recovered": 70564,
+"Deceased": 2370
+},
+{
+"Date": "05-04-2021",
+"Confirmed": 75994,
+"Recovered": 71032,
+"Deceased": 2376
+},
+{
+"Date": "06-04-2021",
+"Confirmed": 76811,
+"Recovered": 71488,
+"Deceased": 2383
+},
+{
+"Date": "07-04-2021",
+"Confirmed": 77634,
+"Recovered": 71940,
+"Deceased": 2389
+},
+{
+"Date": "08-04-2021",
+"Confirmed": 78611,
+"Recovered": 72430,
+"Deceased": 2398
+},
+{
+"Date": "09-04-2021",
+"Confirmed": 79927,
+"Recovered": 72934,
+"Deceased": 2410
+},
+{
+"Date": "10-04-2021",
+"Confirmed": 81367,
+"Recovered": 73551,
+"Deceased": 2426
+},
+{
+"Date": "11-04-2021",
+"Confirmed": 82899,
+"Recovered": 74372,
+"Deceased": 2446
+},
+{
+"Date": "12-04-2021",
+"Confirmed": 84832,
+"Recovered": 75201,
+"Deceased": 2466
+},
+{
+"Date": "13-04-2021",
+"Confirmed": 87114,
+"Recovered": 75636,
+"Deceased": 2489
+},
+{
+"Date": "14-04-2021",
+"Confirmed": 89640,
+"Recovered": 76077,
+"Deceased": 2514
+},
+{
+"Date": "15-04-2021",
+"Confirmed": 92312,
+"Recovered": 76618,
+"Deceased": 2542
+},
+{
+"Date": "16-04-2021",
+"Confirmed": 95210,
+"Recovered": 77146,
+"Deceased": 2568
+},
+{
+"Date": "17-04-2021",
+"Confirmed": 98513,
+"Recovered": 77828,
+"Deceased": 2593
+},
+{
+"Date": "18-04-2021",
+"Confirmed": 102207,
+"Recovered": 78581,
+"Deceased": 2621
+},
+{
+"Date": "19-04-2021",
+"Confirmed": 106465,
+"Recovered": 79395,
+"Deceased": 2644
+},
+{
+"Date": "20-04-2021",
+"Confirmed": 111156,
+"Recovered": 80319,
+"Deceased": 2667
+},
+{
+"Date": "21-04-2021",
+"Confirmed": 116062,
+"Recovered": 81288,
+"Deceased": 2690
+},
+{
+"Date": "22-04-2021",
+"Confirmed": 121288,
+"Recovered": 82327,
+"Deceased": 2714
+},
+{
+"Date": "23-04-2021",
+"Confirmed": 126758,
+"Recovered": 83651,
+"Deceased": 2736
+},
+{
+"Date": "24-04-2021",
+"Confirmed": 132441,
+"Recovered": 85315,
+"Deceased": 2762
+},
+{
+"Date": "25-04-2021",
+"Confirmed": 138305,
+"Recovered": 86959,
+"Deceased": 2791
+},
+{
+"Date": "26-04-2021",
+"Confirmed": 143984,
+"Recovered": 88786,
+"Deceased": 2818
+},
+{
+"Date": "27-04-2021",
+"Confirmed": 149709,
+"Recovered": 90789,
+"Deceased": 2844
+},
+{
+"Date": "28-04-2021",
+"Confirmed": 155449,
+"Recovered": 93052,
+"Deceased": 2870
+},
+{
+"Date": "29-04-2021",
+"Confirmed": 160768,
+"Recovered": 95609,
+"Deceased": 2895
+},
+{
+"Date": "30-04-2021",
+"Confirmed": 166207,
+"Recovered": 98577,
+"Deceased": 2918
+},
+{
+"Date": "01-05-2021",
+"Confirmed": 171267,
+"Recovered": 101776,
+"Deceased": 2940
+},
+{
+"Date": "02-05-2021",
+"Confirmed": 176011,
+"Recovered": 105307,
+"Deceased": 2967
+},
+{
+"Date": "03-05-2021",
+"Confirmed": 180682,
+"Recovered": 109259,
+"Deceased": 2993
+},
+{
+"Date": "04-05-2021",
+"Confirmed": 185436,
+"Recovered": 113907,
+"Deceased": 3016
+},
+{
+"Date": "05-05-2021",
+"Confirmed": 189684,
+"Recovered": 118996,
+"Deceased": 3039
+},
+{
+"Date": "06-05-2021",
+"Confirmed": 193641,
+"Recovered": 124139,
+"Deceased": 3056
+},
+{
+"Date": "07-05-2021",
+"Confirmed": 197478,
+"Recovered": 129409,
+"Deceased": 3073
+},
+{
+"Date": "08-05-2021",
+"Confirmed": 200920,
+"Recovered": 135875,
+"Deceased": 3089
+},
+{
+"Date": "09-05-2021",
+"Confirmed": 203875,
+"Recovered": 142512,
+"Deceased": 3108
+},
+{
+"Date": "10-05-2021",
+"Confirmed": 207138,
+"Recovered": 149288,
+"Deceased": 3128
+},
+{
+"Date": "11-05-2021",
+"Confirmed": 210265,
+"Recovered": 156021,
+"Deceased": 3146
+},
+{
+"Date": "12-05-2021",
+"Confirmed": 213148,
+"Recovered": 162811,
+"Deceased": 3163
+},
+{
+"Date": "13-05-2021",
+"Confirmed": 216090,
+"Recovered": 169921,
+"Deceased": 3179
+},
+{
+"Date": "14-05-2021",
+"Confirmed": 218914,
+"Recovered": 177200,
+"Deceased": 3195
+},
+{
+"Date": "15-05-2021",
+"Confirmed": 221374,
+"Recovered": 184434,
+"Deceased": 3207
+},
+{
+"Date": "16-05-2021",
+"Confirmed": 223652,
+"Recovered": 191443,
+"Deceased": 3220
+},
+{
+"Date": "17-05-2021",
+"Confirmed": 226029,
+"Recovered": 196178,
+"Deceased": 3232
+},
+{
+"Date": "18-05-2021",
+"Confirmed": 227924,
+"Recovered": 198877,
+"Deceased": 3244
+},
+{
+"Date": "19-05-2021",
+"Confirmed": 229248,
+"Recovered": 200480,
+"Deceased": 3255
+},
+{
+"Date": "20-05-2021",
+"Confirmed": 230354,
+"Recovered": 201465,
+"Deceased": 3264
+},
+{
+"Date": "21-05-2021",
+"Confirmed": 231185,
+"Recovered": 202841,
+"Deceased": 3274
+},
+{
+"Date": "22-05-2021",
+"Confirmed": 231896,
+"Recovered": 204488,
+"Deceased": 3281
+},
+{
+"Date": "23-05-2021",
+"Confirmed": 232465,
+"Recovered": 206368,
+"Deceased": 3288
+},
+{
+"Date": "24-05-2021",
+"Confirmed": 232940,
+"Recovered": 208931,
+"Deceased": 3296
+},
+{
+"Date": "25-05-2021",
+"Confirmed": 233462,
+"Recovered": 212168,
+"Deceased": 3304
+},
+{
+"Date": "26-05-2021",
+"Confirmed": 233840,
+"Recovered": 215851,
+"Deceased": 3310
+},
+{
+"Date": "27-05-2021",
+"Confirmed": 234192,
+"Recovered": 219686,
+"Deceased": 3316
+},
+{
+"Date": "28-05-2021",
+"Confirmed": 234540,
+"Recovered": 222029,
+"Deceased": 3323
+},
+{
+"Date": "29-05-2021",
+"Confirmed": 234833,
+"Recovered": 224154,
+"Deceased": 3330
+},
+{
+"Date": "30-05-2021",
+"Confirmed": 235078,
+"Recovered": 225568,
+"Deceased": 3335
+},
+{
+"Date": "31-05-2021",
+"Confirmed": 235348,
+"Recovered": 226516,
+"Deceased": 3339
+},
+{
+"Date": "01-06-2021",
+"Confirmed": 235610,
+"Recovered": 227371,
+"Deceased": 3344
+},
+{
+"Date": "02-06-2021",
+"Confirmed": 235842,
+"Recovered": 228229,
+"Deceased": 3349
+},
+{
+"Date": "03-06-2021",
+"Confirmed": 236038,
+"Recovered": 228685,
+"Deceased": 3353
+},
+{
+"Date": "04-06-2021",
+"Confirmed": 236222,
+"Recovered": 229176,
+"Deceased": 3357
+},
+{
+"Date": "05-06-2021",
+"Confirmed": 236371,
+"Recovered": 229609,
+"Deceased": 3361
+},
+{
+"Date": "06-06-2021",
+"Confirmed": 236505,
+"Recovered": 230066,
+"Deceased": 3364
+},
+{
+"Date": "07-06-2021",
+"Confirmed": 236625,
+"Recovered": 230379,
+"Deceased": 3367
+},
+{
+"Date": "08-06-2021",
+"Confirmed": 236738,
+"Recovered": 230621,
+"Deceased": 3370
+},
+{
+"Date": "09-06-2021",
+"Confirmed": 236836,
+"Recovered": 230896,
+"Deceased": 3373
+},
+{
+"Date": "10-06-2021",
+"Confirmed": 236926,
+"Recovered": 231151,
+"Deceased": 3375
+},
+{
+"Date": "11-06-2021",
+"Confirmed": 236998,
+"Recovered": 231383,
+"Deceased": 3377
+},
+{
+"Date": "12-06-2021",
+"Confirmed": 237062,
+"Recovered": 231586,
+"Deceased": 3379
+},
+{
+"Date": "13-06-2021",
+"Confirmed": 237117,
+"Recovered": 231790,
+"Deceased": 3381
+},
+{
+"Date": "14-06-2021",
+"Confirmed": 237164,
+"Recovered": 231973,
+"Deceased": 3383
+},
+{
+"Date": "15-06-2021",
+"Confirmed": 237213,
+"Recovered": 232111,
+"Deceased": 3385
+},
+{
+"Date": "16-06-2021",
+"Confirmed": 237261,
+"Recovered": 232237,
+"Deceased": 3387
+},
+{
+"Date": "17-06-2021",
+"Confirmed": 237308,
+"Recovered": 232341,
+"Deceased": 3389
+},
+{
+"Date": "18-06-2021",
+"Confirmed": 237351,
+"Recovered": 232438,
+"Deceased": 3391
+},
+{
+"Date": "19-06-2021",
+"Confirmed": 237391,
+"Recovered": 232519,
+"Deceased": 3392
+},
+{
+"Date": "20-06-2021",
+"Confirmed": 237429,
+"Recovered": 232590,
+"Deceased": 3393
+},
+{
+"Date": "21-06-2021",
+"Confirmed": 237465,
+"Recovered": 232652,
+"Deceased": 3394
+},
+{
+"Date": "22-06-2021",
+"Confirmed": 237495,
+"Recovered": 232711,
+"Deceased": 3395
+},
+{
+"Date": "23-06-2021",
+"Confirmed": 237526,
+"Recovered": 232768,
+"Deceased": 3396
+},
+{
+"Date": "24-06-2021",
+"Confirmed": 237552,
+"Recovered": 232813,
+"Deceased": 3397
+},
+{
+"Date": "25-06-2021",
+"Confirmed": 237579,
+"Recovered": 232898,
+"Deceased": 3398
+},
+{
+"Date": "26-06-2021",
+"Confirmed": 237598,
+"Recovered": 232969,
+"Deceased": 3399
+},
+{
+"Date": "27-06-2021",
+"Confirmed": 237622,
+"Recovered": 233014,
+"Deceased": 3400
+},
+{
+"Date": "28-06-2021",
+"Confirmed": 237643,
+"Recovered": 233060,
+"Deceased": 3401
+},
+{
+"Date": "29-06-2021",
+"Confirmed": 237663,
+"Recovered": 233099,
+"Deceased": 3402
+},
+{
+"Date": "30-06-2021",
+"Confirmed": 237681,
+"Recovered": 233135,
+"Deceased": 3403
+},
+{
+"Date": "01-07-2021",
+"Confirmed": 237699,
+"Recovered": 233173,
+"Deceased": 3405
+},
+{
+"Date": "02-07-2021",
+"Confirmed": 237714,
+"Recovered": 233208,
+"Deceased": 3406
+},
+{
+"Date": "03-07-2021",
+"Confirmed": 237736,
+"Recovered": 233248,
+"Deceased": 3407
+},
+{
+"Date": "04-07-2021",
+"Confirmed": 237755,
+"Recovered": 233273,
+"Deceased": 3408
+},
+{
+"Date": "05-07-2021",
+"Confirmed": 237770,
+"Recovered": 233349,
+"Deceased": 3409
+},
+{
+"Date": "06-07-2021",
+"Confirmed": 237781,
+"Recovered": 233404,
+"Deceased": 3410
+},
+{
+"Date": "07-07-2021",
+"Confirmed": 237794,
+"Recovered": 233500,
+"Deceased": 3410
+},
+{
+"Date": "08-07-2021",
+"Confirmed": 237809,
+"Recovered": 233863,
+"Deceased": 3410
+},
+{
+"Date": "09-07-2021",
+"Confirmed": 237821,
+"Recovered": 233895,
+"Deceased": 3410
+},
+{
+"Date": "10-07-2021",
+"Confirmed": 237832,
+"Recovered": 234010,
+"Deceased": 3410
+},
+{
+"Date": "11-07-2021",
+"Confirmed": 237839,
+"Recovered": 234118,
+"Deceased": 3410
+},
+{
+"Date": "12-07-2021",
+"Confirmed": 237848,
+"Recovered": 234146,
+"Deceased": 3410
+},
+{
+"Date": "13-07-2021",
+"Confirmed": 237857,
+"Recovered": 234177,
+"Deceased": 3410
+},
+{
+"Date": "14-07-2021",
+"Confirmed": 237866,
+"Recovered": 234199,
+"Deceased": 3410
+},
+{
+"Date": "15-07-2021",
+"Confirmed": 237872,
+"Recovered": 234224,
+"Deceased": 3410
+},
+{
+"Date": "16-07-2021",
+"Confirmed": 237877,
+"Recovered": 234246,
+"Deceased": 3410
+},
+{
+"Date": "17-07-2021",
+"Confirmed": 237883,
+"Recovered": 234281,
+"Deceased": 3410
+},
+{
+"Date": "18-07-2021",
+"Confirmed": 237887,
+"Recovered": 234309,
+"Deceased": 3411
+},
+{
+"Date": "19-07-2021",
+"Confirmed": 237892,
+"Recovered": 234335,
+"Deceased": 3411
+},
+{
+"Date": "20-07-2021",
+"Confirmed": 237898,
+"Recovered": 234360,
+"Deceased": 3411
+},
+{
+"Date": "21-07-2021",
+"Confirmed": 237902,
+"Recovered": 234381,
+"Deceased": 3411
+},
+{
+"Date": "22-07-2021",
+"Confirmed": 237907,
+"Recovered": 234400,
+"Deceased": 3411
+},
+{
+"Date": "23-07-2021",
+"Confirmed": 237915,
+"Recovered": 234418,
+"Deceased": 3411
+},
+{
+"Date": "24-07-2021",
+"Confirmed": 237925,
+"Recovered": 234429,
+"Deceased": 3411
+},
+{
+"Date": "25-07-2021",
+"Confirmed": 237930,
+"Recovered": 234439,
+"Deceased": 3411
+},
+{
+"Date": "26-07-2021",
+"Confirmed": 237939,
+"Recovered": 234448,
+"Deceased": 3411
+},
+{
+"Date": "27-07-2021",
+"Confirmed": 237943,
+"Recovered": 234463,
+"Deceased": 3411
+},
+{
+"Date": "28-07-2021",
+"Confirmed": 237946,
+"Recovered": 234473,
+"Deceased": 3411
+},
+{
+"Date": "29-07-2021",
+"Confirmed": 237949,
+"Recovered": 234481,
+"Deceased": 3411
+},
+{
+"Date": "30-07-2021",
+"Confirmed": 237954,
+"Recovered": 234487,
+"Deceased": 3411
+},
+{
+"Date": "31-07-2021",
+"Confirmed": 237964,
+"Recovered": 234492,
+"Deceased": 3411
+},
+{
+"Date": "01-08-2021",
+"Confirmed": 237972,
+"Recovered": 234495,
+"Deceased": 3411
+},
+{
+"Date": "02-08-2021",
+"Confirmed": 237980,
+"Recovered": 234502,
+"Deceased": 3411
+},
+{
+"Date": "03-08-2021",
+"Confirmed": 237985,
+"Recovered": 234510,
+"Deceased": 3411
+},
+{
+"Date": "04-08-2021",
+"Confirmed": 237988,
+"Recovered": 234517,
+"Deceased": 3411
+},
+{
+"Date": "05-08-2021",
+"Confirmed": 237992,
+"Recovered": 234525,
+"Deceased": 3411
+},
+{
+"Date": "06-08-2021",
+"Confirmed": 237996,
+"Recovered": 234528,
+"Deceased": 3411
+},
+{
+"Date": "07-08-2021",
+"Confirmed": 238000,
+"Recovered": 234532,
+"Deceased": 3411
+},
+{
+"Date": "08-08-2021",
+"Confirmed": 238004,
+"Recovered": 234535,
+"Deceased": 3411
+},
+{
+"Date": "09-08-2021",
+"Confirmed": 238008,
+"Recovered": 234538,
+"Deceased": 3411
+},
+{
+"Date": "10-08-2021",
+"Confirmed": 238015,
+"Recovered": 234543,
+"Deceased": 3411
+},
+{
+"Date": "11-08-2021",
+"Confirmed": 238022,
+"Recovered": 234550,
+"Deceased": 3411
+},
+{
+"Date": "12-08-2021",
+"Confirmed": 238030,
+"Recovered": 234559,
+"Deceased": 3411
+},
+{
+"Date": "13-08-2021",
+"Confirmed": 238037,
+"Recovered": 234569,
+"Deceased": 3411
+},
+{
+"Date": "14-08-2021",
+"Confirmed": 238044,
+"Recovered": 234574,
+"Deceased": 3411
+},
+{
+"Date": "15-08-2021",
+"Confirmed": 238048,
+"Recovered": 234578,
+"Deceased": 3411
+},
+{
+"Date": "16-08-2021",
+"Confirmed": 238055,
+"Recovered": 234582,
+"Deceased": 3411
+},
+{
+"Date": "17-08-2021",
+"Confirmed": 238060,
+"Recovered": 234585,
+"Deceased": 3411
+},
+{
+"Date": "18-08-2021",
+"Confirmed": 238064,
+"Recovered": 234589,
+"Deceased": 3411
+},
+{
+"Date": "19-08-2021",
+"Confirmed": 238066,
+"Recovered": 234594,
+"Deceased": 3411
+},
+{
+"Date": "20-08-2021",
+"Confirmed": 238071,
+"Recovered": 234599,
+"Deceased": 3411
+},
+{
+"Date": "21-08-2021",
+"Confirmed": 238075,
+"Recovered": 234606,
+"Deceased": 3411
+},
+{
+"Date": "22-08-2021",
+"Confirmed": 238076,
+"Recovered": 234614,
+"Deceased": 3411
+},
+{
+"Date": "23-08-2021",
+"Confirmed": 238078,
+"Recovered": 234624,
+"Deceased": 3411
+},
+{
+"Date": "24-08-2021",
+"Confirmed": 238083,
+"Recovered": 234629,
+"Deceased": 3411
+},
+{
+"Date": "25-08-2021",
+"Confirmed": 238085,
+"Recovered": 234633,
+"Deceased": 3411
+},
+{
+"Date": "26-08-2021",
+"Confirmed": 238088,
+"Recovered": 234639,
+"Deceased": 3411
+},
+{
+"Date": "27-08-2021",
+"Confirmed": 238092,
+"Recovered": 234644,
+"Deceased": 3411
+},
+{
+"Date": "28-08-2021",
+"Confirmed": 238096,
+"Recovered": 234648,
+"Deceased": 3411
+},
+{
+"Date": "29-08-2021",
+"Confirmed": 238099,
+"Recovered": 234650,
+"Deceased": 3411
+},
+{
+"Date": "30-08-2021",
+"Confirmed": 238102,
+"Recovered": 234655,
+"Deceased": 3411
+},
+{
+"Date": "31-08-2021",
+"Confirmed": 238108,
+"Recovered": 234659,
+"Deceased": 3411
+},
+{
+"Date": "01-09-2021",
+"Confirmed": 238112,
+"Recovered": 234660,
+"Deceased": 3411
+},
+{
+"Date": "02-09-2021",
+"Confirmed": 238113,
+"Recovered": 234663,
+"Deceased": 3411
+},
+{
+"Date": "03-09-2021",
+"Confirmed": 238117,
+"Recovered": 234668,
+"Deceased": 3411
+},
+{
+"Date": "04-09-2021",
+"Confirmed": 238119,
+"Recovered": 234670,
+"Deceased": 3411
+},
+{
+"Date": "05-09-2021",
+"Confirmed": 238120,
+"Recovered": 234673,
+"Deceased": 3411
+},
+{
+"Date": "06-09-2021",
+"Confirmed": 238129,
+"Recovered": 234677,
+"Deceased": 3411
+},
+{
+"Date": "07-09-2021",
+"Confirmed": 238136,
+"Recovered": 234681,
+"Deceased": 3411
+}
+]
