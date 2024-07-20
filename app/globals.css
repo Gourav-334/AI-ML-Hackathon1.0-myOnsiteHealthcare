@@ -7,6 +7,7 @@
 
   /* --primary: #008060; */
   --primary: #167db7;
+  --primary-dark: #0f6e9c;
   --secondary: #111213;
   --surface: #111213;
   --onSurface: #111213;
@@ -28,8 +29,20 @@
   --textSubdued: #6d7175;
   --divider: #e1e3e5;
   --text: #202223;
+  --white: #eee;
   --formFieldBorder: #c9cccf;
   --formFieldBorderShadow: #aeb4b9;
+
+  --cultured: hsl(0, 0%, 93%);
+  --onyx: hsl(0, 0%, 27%);
+  --eerie-black: hsl(0, 0%, 13%);
+
+  /**
+       * border-radius
+       */
+
+  --border-radius-md: 10px;
+  --border-radius-sm: 5px;
 }
 
 * {

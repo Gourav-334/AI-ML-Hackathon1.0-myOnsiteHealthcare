@@ -1,0 +1,3002 @@
+[
+  {
+    "date": "19-03-2020",
+    "confirmed": 2,
+    "recovered": 0,
+    "deaths": 0
+  },
+  {
+    "date": "20-03-2020",
+    "confirmed": 7,
+    "recovered": 0,
+    "deaths": 0
+  },
+  {
+    "date": "21-03-2020",
+    "confirmed": 14,
+    "recovered": 0,
+    "deaths": 0
+  },
+  {
+    "date": "22-03-2020",
+    "confirmed": 18,
+    "recovered": 0,
+    "deaths": 0
+  },
+  {
+    "date": "23-03-2020",
+    "confirmed": 30,
+    "recovered": 0,
+    "deaths": 0
+  },
+  {
+    "date": "24-03-2020",
+    "confirmed": 36,
+    "recovered": 0,
+    "deaths": 0
+  },
+  {
+    "date": "25-03-2020",
+    "confirmed": 38,
+    "recovered": 0,
+    "deaths": 0
+  },
+  {
+    "date": "26-03-2020",
+    "confirmed": 44,
+    "recovered": 0,
+    "deaths": 0
+  },
+  {
+    "date": "27-03-2020",
+    "confirmed": 47,
+    "recovered": 0,
+    "deaths": 0
+  },
+  {
+    "date": "28-03-2020",
+    "confirmed": 55,
+    "recovered": 0,
+    "deaths": 0
+  },
+  {
+    "date": "29-03-2020",
+    "confirmed": 63,
+    "recovered": 1,
+    "deaths": 5
+  },
+  {
+    "date": "30-03-2020",
+    "confirmed": 70,
+    "recovered": 3,
+    "deaths": 6
+  },
+  {
+    "date": "31-03-2020",
+    "confirmed": 74,
+    "recovered": 5,
+    "deaths": 6
+  },
+  {
+    "date": "01-04-2020",
+    "confirmed": 87,
+    "recovered": 5,
+    "deaths": 6
+  },
+  {
+    "date": "02-04-2020",
+    "confirmed": 88,
+    "recovered": 10,
+    "deaths": 7
+  },
+  {
+    "date": "03-04-2020",
+    "confirmed": 95,
+    "recovered": 10,
+    "deaths": 9
+  },
+  {
+    "date": "04-04-2020",
+    "confirmed": 108,
+    "recovered": 13,
+    "deaths": 10
+  },
+  {
+    "date": "05-04-2020",
+    "confirmed": 128,
+    "recovered": 21,
+    "deaths": 11
+  },
+  {
+    "date": "06-04-2020",
+    "confirmed": 146,
+    "recovered": 22,
+    "deaths": 12
+  },
+  {
+    "date": "07-04-2020",
+    "confirmed": 175,
+    "recovered": 25,
+    "deaths": 14
+  },
+  {
+    "date": "08-04-2020",
+    "confirmed": 186,
+    "recovered": 25,
+    "deaths": 16
+  },
+  {
+    "date": "09-04-2020",
+    "confirmed": 262,
+    "recovered": 26,
+    "deaths": 18
+  },
+  {
+    "date": "10-04-2020",
+    "confirmed": 378,
+    "recovered": 33,
+    "deaths": 19
+  },
+  {
+    "date": "11-04-2020",
+    "confirmed": 468,
+    "recovered": 44,
+    "deaths": 22
+  },
+  {
+    "date": "12-04-2020",
+    "confirmed": 516,
+    "recovered": 44,
+    "deaths": 24
+  },
+  {
+    "date": "13-04-2020",
+    "confirmed": 572,
+    "recovered": 54,
+    "deaths": 26
+  },
+  {
+    "date": "14-04-2020",
+    "confirmed": 650,
+    "recovered": 59,
+    "deaths": 28
+  },
+  {
+    "date": "15-04-2020",
+    "confirmed": 766,
+    "recovered": 64,
+    "deaths": 33
+  },
+  {
+    "date": "16-04-2020",
+    "confirmed": 929,
+    "recovered": 73,
+    "deaths": 36
+  },
+  {
+    "date": "17-04-2020",
+    "confirmed": 1099,
+    "recovered": 86,
+    "deaths": 41
+  },
+  {
+    "date": "18-04-2020",
+    "confirmed": 1376,
+    "recovered": 93,
+    "deaths": 53
+  },
+  {
+    "date": "19-04-2020",
+    "confirmed": 1743,
+    "recovered": 105,
+    "deaths": 63
+  },
+  {
+    "date": "20-04-2020",
+    "confirmed": 1939,
+    "recovered": 131,
+    "deaths": 71
+  },
+  {
+    "date": "21-04-2020",
+    "confirmed": 2178,
+    "recovered": 139,
+    "deaths": 90
+  },
+  {
+    "date": "22-04-2020",
+    "confirmed": 2407,
+    "recovered": 179,
+    "deaths": 103
+  },
+  {
+    "date": "23-04-2020",
+    "confirmed": 2624,
+    "recovered": 258,
+    "deaths": 112
+  },
+  {
+    "date": "24-04-2020",
+    "confirmed": 2815,
+    "recovered": 265,
+    "deaths": 127
+  },
+  {
+    "date": "25-04-2020",
+    "confirmed": 3071,
+    "recovered": 282,
+    "deaths": 133
+  },
+  {
+    "date": "26-04-2020",
+    "confirmed": 3301,
+    "recovered": 313,
+    "deaths": 151
+  },
+  {
+    "date": "27-04-2020",
+    "confirmed": 3548,
+    "recovered": 394,
+    "deaths": 162
+  },
+  {
+    "date": "28-04-2020",
+    "confirmed": 3774,
+    "recovered": 434,
+    "deaths": 181
+  },
+  {
+    "date": "29-04-2020",
+    "confirmed": 4082,
+    "recovered": 527,
+    "deaths": 197
+  },
+  {
+    "date": "30-04-2020",
+    "confirmed": 4395,
+    "recovered": 613,
+    "deaths": 214
+  },
+  {
+    "date": "01-05-2020",
+    "confirmed": 4721,
+    "recovered": 736,
+    "deaths": 236
+  },
+  {
+    "date": "02-05-2020",
+    "confirmed": 5054,
+    "recovered": 896,
+    "deaths": 262
+  },
+  {
+    "date": "03-05-2020",
+    "confirmed": 5428,
+    "recovered": 1042,
+    "deaths": 290
+  },
+  {
+    "date": "04-05-2020",
+    "confirmed": 5804,
+    "recovered": 1195,
+    "deaths": 319
+  },
+  {
+    "date": "05-05-2020",
+    "confirmed": 6245,
+    "recovered": 1381,
+    "deaths": 368
+  },
+  {
+    "date": "06-05-2020",
+    "confirmed": 6625,
+    "recovered": 1500,
+    "deaths": 396
+  },
+  {
+    "date": "07-05-2020",
+    "confirmed": 7013,
+    "recovered": 1709,
+    "deaths": 425
+  },
+  {
+    "date": "08-05-2020",
+    "confirmed": 7403,
+    "recovered": 1872,
+    "deaths": 449
+  },
+  {
+    "date": "09-05-2020",
+    "confirmed": 7797,
+    "recovered": 2091,
+    "deaths": 472
+  },
+  {
+    "date": "10-05-2020",
+    "confirmed": 8195,
+    "recovered": 2545,
+    "deaths": 493
+  },
+  {
+    "date": "11-05-2020",
+    "confirmed": 8542,
+    "recovered": 2780,
+    "deaths": 513
+  },
+  {
+    "date": "12-05-2020",
+    "confirmed": 8904,
+    "recovered": 3246,
+    "deaths": 537
+  },
+  {
+    "date": "13-05-2020",
+    "confirmed": 9268,
+    "recovered": 3562,
+    "deaths": 566
+  },
+  {
+    "date": "14-05-2020",
+    "confirmed": 9592,
+    "recovered": 3753,
+    "deaths": 586
+  },
+  {
+    "date": "15-05-2020",
+    "confirmed": 9932,
+    "recovered": 4035,
+    "deaths": 606
+  },
+  {
+    "date": "16-05-2020",
+    "confirmed": 10989,
+    "recovered": 4308,
+    "deaths": 625
+  },
+  {
+    "date": "17-05-2020",
+    "confirmed": 11380,
+    "recovered": 4499,
+    "deaths": 659
+  },
+  {
+    "date": "18-05-2020",
+    "confirmed": 11746,
+    "recovered": 4804,
+    "deaths": 694
+  },
+  {
+    "date": "19-05-2020",
+    "confirmed": 12141,
+    "recovered": 5043,
+    "deaths": 719
+  },
+  {
+    "date": "20-05-2020",
+    "confirmed": 12539,
+    "recovered": 5219,
+    "deaths": 749
+  },
+  {
+    "date": "21-05-2020",
+    "confirmed": 12910,
+    "recovered": 5488,
+    "deaths": 773
+  },
+  {
+    "date": "22-05-2020",
+    "confirmed": 13273,
+    "recovered": 5880,
+    "deaths": 802
+  },
+  {
+    "date": "23-05-2020",
+    "confirmed": 13669,
+    "recovered": 6169,
+    "deaths": 829
+  },
+  {
+    "date": "24-05-2020",
+    "confirmed": 14063,
+    "recovered": 6412,
+    "deaths": 858
+  },
+  {
+    "date": "25-05-2020",
+    "confirmed": 14468,
+    "recovered": 6636,
+    "deaths": 888
+  },
+  {
+    "date": "26-05-2020",
+    "confirmed": 14829,
+    "recovered": 7137,
+    "deaths": 915
+  },
+  {
+    "date": "27-05-2020",
+    "confirmed": 15205,
+    "recovered": 7547,
+    "deaths": 938
+  },
+  {
+    "date": "28-05-2020",
+    "confirmed": 15572,
+    "recovered": 8001,
+    "deaths": 960
+  },
+  {
+    "date": "29-05-2020",
+    "confirmed": 15944,
+    "recovered": 8609,
+    "deaths": 980
+  },
+  {
+    "date": "30-05-2020",
+    "confirmed": 16356,
+    "recovered": 9230,
+    "deaths": 1007
+  },
+  {
+    "date": "31-05-2020",
+    "confirmed": 16794,
+    "recovered": 9919,
+    "deaths": 1038
+  },
+  {
+    "date": "01-06-2020",
+    "confirmed": 17217,
+    "recovered": 10780,
+    "deaths": 1063
+  },
+  {
+    "date": "02-06-2020",
+    "confirmed": 17632,
+    "recovered": 11894,
+    "deaths": 1092
+  },
+  {
+    "date": "03-06-2020",
+    "confirmed": 18117,
+    "recovered": 12212,
+    "deaths": 1122
+  },
+  {
+    "date": "04-06-2020",
+    "confirmed": 18609,
+    "recovered": 12667,
+    "deaths": 1155
+  },
+  {
+    "date": "05-06-2020",
+    "confirmed": 19119,
+    "recovered": 13011,
+    "deaths": 1190
+  },
+  {
+    "date": "06-06-2020",
+    "confirmed": 19617,
+    "recovered": 13324,
+    "deaths": 1219
+  },
+  {
+    "date": "07-06-2020",
+    "confirmed": 20097,
+    "recovered": 13643,
+    "deaths": 1249
+  },
+  {
+    "date": "08-06-2020",
+    "confirmed": 20574,
+    "recovered": 13964,
+    "deaths": 1280
+  },
+  {
+    "date": "09-06-2020",
+    "confirmed": 21044,
+    "recovered": 14373,
+    "deaths": 1313
+  },
+  {
+    "date": "10-06-2020",
+    "confirmed": 21554,
+    "recovered": 14743,
+    "deaths": 1347
+  },
+  {
+    "date": "11-06-2020",
+    "confirmed": 22067,
+    "recovered": 15109,
+    "deaths": 1385
+  },
+  {
+    "date": "12-06-2020",
+    "confirmed": 22562,
+    "recovered": 15501,
+    "deaths": 1416
+  },
+  {
+    "date": "13-06-2020",
+    "confirmed": 23079,
+    "recovered": 15891,
+    "deaths": 1449
+  },
+  {
+    "date": "14-06-2020",
+    "confirmed": 23590,
+    "recovered": 16333,
+    "deaths": 1478
+  },
+  {
+    "date": "15-06-2020",
+    "confirmed": 24104,
+    "recovered": 16672,
+    "deaths": 1506
+  },
+  {
+    "date": "16-06-2020",
+    "confirmed": 24628,
+    "recovered": 17090,
+    "deaths": 1534
+  },
+  {
+    "date": "17-06-2020",
+    "confirmed": 25148,
+    "recovered": 17438,
+    "deaths": 1561
+  },
+  {
+    "date": "18-06-2020",
+    "confirmed": 25658,
+    "recovered": 17827,
+    "deaths": 1592
+  },
+  {
+    "date": "19-06-2020",
+    "confirmed": 26198,
+    "recovered": 18167,
+    "deaths": 1619
+  },
+  {
+    "date": "20-06-2020",
+    "confirmed": 26737,
+    "recovered": 18702,
+    "deaths": 1639
+  },
+  {
+    "date": "21-06-2020",
+    "confirmed": 27317,
+    "recovered": 19357,
+    "deaths": 1664
+  },
+  {
+    "date": "22-06-2020",
+    "confirmed": 27880,
+    "recovered": 19917,
+    "deaths": 1685
+  },
+  {
+    "date": "23-06-2020",
+    "confirmed": 28429,
+    "recovered": 20521,
+    "deaths": 1711
+  },
+  {
+    "date": "24-06-2020",
+    "confirmed": 29001,
+    "recovered": 21096,
+    "deaths": 1736
+  },
+  {
+    "date": "25-06-2020",
+    "confirmed": 29578,
+    "recovered": 21506,
+    "deaths": 1754
+  },
+  {
+    "date": "26-06-2020",
+    "confirmed": 30158,
+    "recovered": 22038,
+    "deaths": 1772
+  },
+  {
+    "date": "27-06-2020",
+    "confirmed": 30773,
+    "recovered": 22417,
+    "deaths": 1790
+  },
+  {
+    "date": "28-06-2020",
+    "confirmed": 31397,
+    "recovered": 22808,
+    "deaths": 1809
+  },
+  {
+    "date": "29-06-2020",
+    "confirmed": 32023,
+    "recovered": 23248,
+    "deaths": 1828
+  },
+  {
+    "date": "30-06-2020",
+    "confirmed": 32643,
+    "recovered": 23670,
+    "deaths": 1848
+  },
+  {
+    "date": "01-07-2020",
+    "confirmed": 33318,
+    "recovered": 24038,
+    "deaths": 1869
+  },
+  {
+    "date": "02-07-2020",
+    "confirmed": 33999,
+    "recovered": 24601,
+    "deaths": 1888
+  },
+  {
+    "date": "03-07-2020",
+    "confirmed": 34686,
+    "recovered": 24941,
+    "deaths": 1906
+  },
+  {
+    "date": "04-07-2020",
+    "confirmed": 35398,
+    "recovered": 25414,
+    "deaths": 1927
+  },
+  {
+    "date": "05-07-2020",
+    "confirmed": 36123,
+    "recovered": 25900,
+    "deaths": 1945
+  },
+  {
+    "date": "06-07-2020",
+    "confirmed": 36858,
+    "recovered": 26323,
+    "deaths": 1962
+  },
+  {
+    "date": "07-07-2020",
+    "confirmed": 37636,
+    "recovered": 26744,
+    "deaths": 1979
+  },
+  {
+    "date": "08-07-2020",
+    "confirmed": 38419,
+    "recovered": 27313,
+    "deaths": 1995
+  },
+  {
+    "date": "09-07-2020",
+    "confirmed": 39280,
+    "recovered": 27742,
+    "deaths": 2010
+  },
+  {
+    "date": "10-07-2020",
+    "confirmed": 40155,
+    "recovered": 28183,
+    "deaths": 2024
+  },
+  {
+    "date": "11-07-2020",
+    "confirmed": 41027,
+    "recovered": 28685,
+    "deaths": 2034
+  },
+  {
+    "date": "12-07-2020",
+    "confirmed": 41906,
+    "recovered": 29198,
+    "deaths": 2047
+  },
+  {
+    "date": "13-07-2020",
+    "confirmed": 42808,
+    "recovered": 29806,
+    "deaths": 2057
+  },
+  {
+    "date": "14-07-2020",
+    "confirmed": 43723,
+    "recovered": 30555,
+    "deaths": 2071
+  },
+  {
+    "date": "15-07-2020",
+    "confirmed": 44648,
+    "recovered": 31346,
+    "deaths": 2081
+  },
+  {
+    "date": "16-07-2020",
+    "confirmed": 45567,
+    "recovered": 32174,
+    "deaths": 2091
+  },
+  {
+    "date": "17-07-2020",
+    "confirmed": 46516,
+    "recovered": 32944,
+    "deaths": 2108
+  },
+  {
+    "date": "18-07-2020",
+    "confirmed": 47476,
+    "recovered": 34005,
+    "deaths": 2127
+  },
+  {
+    "date": "19-07-2020",
+    "confirmed": 48441,
+    "recovered": 34882,
+    "deaths": 2147
+  },
+  {
+    "date": "20-07-2020",
+    "confirmed": 49439,
+    "recovered": 35659,
+    "deaths": 2167
+  },
+  {
+    "date": "21-07-2020",
+    "confirmed": 50465,
+    "recovered": 36403,
+    "deaths": 2201
+  },
+  {
+    "date": "22-07-2020",
+    "confirmed": 51485,
+    "recovered": 37240,
+    "deaths": 2229
+  },
+  {
+    "date": "23-07-2020",
+    "confirmed": 52563,
+    "recovered": 37958,
+    "deaths": 2257
+  },
+  {
+    "date": "24-07-2020",
+    "confirmed": 53631,
+    "recovered": 38830,
+    "deaths": 2283
+  },
+  {
+    "date": "25-07-2020",
+    "confirmed": 54712,
+    "recovered": 39612,
+    "deaths": 2305
+  },
+  {
+    "date": "26-07-2020",
+    "confirmed": 55822,
+    "recovered": 40365,
+    "deaths": 2326
+  },
+  {
+    "date": "27-07-2020",
+    "confirmed": 56874,
+    "recovered": 41380,
+    "deaths": 2348
+  },
+  {
+    "date": "28-07-2020",
+    "confirmed": 57982,
+    "recovered": 42412,
+    "deaths": 2372
+  },
+  {
+    "date": "29-07-2020",
+    "confirmed": 59126,
+    "recovered": 43195,
+    "deaths": 2396
+  },
+  {
+    "date": "30-07-2020",
+    "confirmed": 60285,
+    "recovered": 44074,
+    "deaths": 2418
+  },
+  {
+    "date": "31-07-2020",
+    "confirmed": 61438,
+    "recovered": 44907,
+    "deaths": 2441
+  },
+  {
+    "date": "01-08-2020",
+    "confirmed": 62574,
+    "recovered": 45782,
+    "deaths": 2465
+  },
+  {
+    "date": "02-08-2020",
+    "confirmed": 63675,
+    "recovered": 46587,
+    "deaths": 2487
+  },
+  {
+    "date": "03-08-2020",
+    "confirmed": 64684,
+    "recovered": 47561,
+    "deaths": 2509
+  },
+  {
+    "date": "04-08-2020",
+    "confirmed": 65704,
+    "recovered": 48459,
+    "deaths": 2534
+  },
+  {
+    "date": "05-08-2020",
+    "confirmed": 66777,
+    "recovered": 49505,
+    "deaths": 2557
+  },
+  {
+    "date": "06-08-2020",
+    "confirmed": 67811,
+    "recovered": 50422,
+    "deaths": 2584
+  },
+  {
+    "date": "07-08-2020",
+    "confirmed": 68885,
+    "recovered": 51792,
+    "deaths": 2606
+  },
+  {
+    "date": "08-08-2020",
+    "confirmed": 69986,
+    "recovered": 52927,
+    "deaths": 2629
+  },
+  {
+    "date": "09-08-2020",
+    "confirmed": 71064,
+    "recovered": 54238,
+    "deaths": 2654
+  },
+  {
+    "date": "10-08-2020",
+    "confirmed": 72120,
+    "recovered": 55376,
+    "deaths": 2674
+  },
+  {
+    "date": "11-08-2020",
+    "confirmed": 73238,
+    "recovered": 56516,
+    "deaths": 2697
+  },
+  {
+    "date": "12-08-2020",
+    "confirmed": 74390,
+    "recovered": 57493,
+    "deaths": 2715
+  },
+  {
+    "date": "13-08-2020",
+    "confirmed": 75482,
+    "recovered": 58539,
+    "deaths": 2733
+  },
+  {
+    "date": "14-08-2020",
+    "confirmed": 76569,
+    "recovered": 59622,
+    "deaths": 2748
+  },
+  {
+    "date": "15-08-2020",
+    "confirmed": 77663,
+    "recovered": 60637,
+    "deaths": 2767
+  },
+  {
+    "date": "16-08-2020",
+    "confirmed": 78783,
+    "recovered": 61596,
+    "deaths": 2787
+  },
+  {
+    "date": "17-08-2020",
+    "confirmed": 79816,
+    "recovered": 62679,
+    "deaths": 2802
+  },
+  {
+    "date": "18-08-2020",
+    "confirmed": 80942,
+    "recovered": 63810,
+    "deaths": 2822
+  },
+  {
+    "date": "19-08-2020",
+    "confirmed": 82087,
+    "recovered": 64930,
+    "deaths": 2839
+  },
+  {
+    "date": "20-08-2020",
+    "confirmed": 83262,
+    "recovered": 66053,
+    "deaths": 2855
+  },
+  {
+    "date": "21-08-2020",
+    "confirmed": 84466,
+    "recovered": 67377,
+    "deaths": 2869
+  },
+  {
+    "date": "22-08-2020",
+    "confirmed": 85678,
+    "recovered": 68357,
+    "deaths": 2883
+  },
+  {
+    "date": "23-08-2020",
+    "confirmed": 86779,
+    "recovered": 69329,
+    "deaths": 2897
+  },
+  {
+    "date": "24-08-2020",
+    "confirmed": 87846,
+    "recovered": 70350,
+    "deaths": 2910
+  },
+  {
+    "date": "25-08-2020",
+    "confirmed": 88942,
+    "recovered": 71361,
+    "deaths": 2930
+  },
+  {
+    "date": "26-08-2020",
+    "confirmed": 90139,
+    "recovered": 72408,
+    "deaths": 2947
+  },
+  {
+    "date": "27-08-2020",
+    "confirmed": 91329,
+    "recovered": 73601,
+    "deaths": 2964
+  },
+  {
+    "date": "28-08-2020",
+    "confirmed": 92601,
+    "recovered": 74651,
+    "deaths": 2978
+  },
+  {
+    "date": "29-08-2020",
+    "confirmed": 93883,
+    "recovered": 75762,
+    "deaths": 2991
+  },
+  {
+    "date": "30-08-2020",
+    "confirmed": 95155,
+    "recovered": 76857,
+    "deaths": 3008
+  },
+  {
+    "date": "31-08-2020",
+    "confirmed": 96435,
+    "recovered": 77882,
+    "deaths": 3022
+  },
+  {
+    "date": "01-09-2020",
+    "confirmed": 97745,
+    "recovered": 79013,
+    "deaths": 3036
+  },
+  {
+    "date": "02-09-2020",
+    "confirmed": 99050,
+    "recovered": 80154,
+    "deaths": 3048
+  },
+  {
+    "date": "03-09-2020",
+    "confirmed": 100375,
+    "recovered": 81280,
+    "deaths": 3064
+  },
+  {
+    "date": "04-09-2020",
+    "confirmed": 101695,
+    "recovered": 82498,
+    "deaths": 3078
+  },
+  {
+    "date": "05-09-2020",
+    "confirmed": 103006,
+    "recovered": 83646,
+    "deaths": 3094
+  },
+  {
+    "date": "06-09-2020",
+    "confirmed": 104341,
+    "recovered": 84858,
+    "deaths": 3108
+  },
+  {
+    "date": "07-09-2020",
+    "confirmed": 105671,
+    "recovered": 86134,
+    "deaths": 3123
+  },
+  {
+    "date": "08-09-2020",
+    "confirmed": 106966,
+    "recovered": 87579,
+    "deaths": 3136
+  },
+  {
+    "date": "09-09-2020",
+    "confirmed": 108295,
+    "recovered": 88915,
+    "deaths": 3152
+  },
+  {
+    "date": "10-09-2020",
+    "confirmed": 109627,
+    "recovered": 90330,
+    "deaths": 3167
+  },
+  {
+    "date": "11-09-2020",
+    "confirmed": 110971,
+    "recovered": 91570,
+    "deaths": 3183
+  },
+  {
+    "date": "12-09-2020",
+    "confirmed": 112336,
+    "recovered": 92905,
+    "deaths": 3198
+  },
+  {
+    "date": "13-09-2020",
+    "confirmed": 113662,
+    "recovered": 94110,
+    "deaths": 3213
+  },
+  {
+    "date": "14-09-2020",
+    "confirmed": 114996,
+    "recovered": 95365,
+    "deaths": 3230
+  },
+  {
+    "date": "15-09-2020",
+    "confirmed": 116345,
+    "recovered": 96809,
+    "deaths": 3247
+  },
+  {
+    "date": "16-09-2020",
+    "confirmed": 117709,
+    "recovered": 98256,
+    "deaths": 3259
+  },
+  {
+    "date": "17-09-2020",
+    "confirmed": 119088,
+    "recovered": 99908,
+    "deaths": 3273
+  },
+  {
+    "date": "18-09-2020",
+    "confirmed": 120498,
+    "recovered": 101201,
+    "deaths": 3289
+  },
+  {
+    "date": "19-09-2020",
+    "confirmed": 121930,
+    "recovered": 102671,
+    "deaths": 3305
+  },
+  {
+    "date": "20-09-2020",
+    "confirmed": 123337,
+    "recovered": 103875,
+    "deaths": 3322
+  },
+  {
+    "date": "21-09-2020",
+    "confirmed": 124767,
+    "recovered": 105191,
+    "deaths": 3339
+  },
+  {
+    "date": "22-09-2020",
+    "confirmed": 126169,
+    "recovered": 106512,
+    "deaths": 3355
+  },
+  {
+    "date": "23-09-2020",
+    "confirmed": 127541,
+    "recovered": 107801,
+    "deaths": 3370
+  },
+  {
+    "date": "24-09-2020",
+    "confirmed": 128949,
+    "recovered": 109311,
+    "deaths": 3384
+  },
+  {
+    "date": "25-09-2020",
+    "confirmed": 130391,
+    "recovered": 110590,
+    "deaths": 3396
+  },
+  {
+    "date": "26-09-2020",
+    "confirmed": 131808,
+    "recovered": 112009,
+    "deaths": 3409
+  },
+  {
+    "date": "27-09-2020",
+    "confirmed": 133219,
+    "recovered": 113240,
+    "deaths": 3419
+  },
+  {
+    "date": "28-09-2020",
+    "confirmed": 134623,
+    "recovered": 114576,
+    "deaths": 3431
+  },
+  {
+    "date": "29-09-2020",
+    "confirmed": 136004,
+    "recovered": 115959,
+    "deaths": 3442
+  },
+  {
+    "date": "30-09-2020",
+    "confirmed": 137394,
+    "recovered": 117331,
+    "deaths": 3453
+  },
+  {
+    "date": "01-10-2020",
+    "confirmed": 138745,
+    "recovered": 118665,
+    "deaths": 3463
+  },
+  {
+    "date": "02-10-2020",
+    "confirmed": 140055,
+    "recovered": 119915,
+    "deaths": 3478
+  },
+  {
+    "date": "03-10-2020",
+    "confirmed": 141398,
+    "recovered": 121219,
+    "deaths": 3490
+  },
+  {
+    "date": "04-10-2020",
+    "confirmed": 142700,
+    "recovered": 122465,
+    "deaths": 3499
+  },
+  {
+    "date": "05-10-2020",
+    "confirmed": 144027,
+    "recovered": 123870,
+    "deaths": 3512
+  },
+  {
+    "date": "06-10-2020",
+    "confirmed": 145362,
+    "recovered": 125343,
+    "deaths": 3522
+  },
+  {
+    "date": "07-10-2020",
+    "confirmed": 146673,
+    "recovered": 126757,
+    "deaths": 3531
+  },
+  {
+    "date": "08-10-2020",
+    "confirmed": 147951,
+    "recovered": 128023,
+    "deaths": 3541
+  },
+  {
+    "date": "09-10-2020",
+    "confirmed": 149194,
+    "recovered": 129541,
+    "deaths": 3550
+  },
+  {
+    "date": "10-10-2020",
+    "confirmed": 150415,
+    "recovered": 130997,
+    "deaths": 3560
+  },
+  {
+    "date": "11-10-2020",
+    "confirmed": 151596,
+    "recovered": 132410,
+    "deaths": 3569
+  },
+  {
+    "date": "12-10-2020",
+    "confirmed": 152765,
+    "recovered": 133852,
+    "deaths": 3577
+  },
+  {
+    "date": "13-10-2020",
+    "confirmed": 153923,
+    "recovered": 135227,
+    "deaths": 3587
+  },
+  {
+    "date": "14-10-2020",
+    "confirmed": 155098,
+    "recovered": 136641,
+    "deaths": 3598
+  },
+  {
+    "date": "15-10-2020",
+    "confirmed": 156283,
+    "recovered": 137970,
+    "deaths": 3609
+  },
+  {
+    "date": "16-10-2020",
+    "confirmed": 157474,
+    "recovered": 139249,
+    "deaths": 3620
+  },
+  {
+    "date": "17-10-2020",
+    "confirmed": 158635,
+    "recovered": 140519,
+    "deaths": 3629
+  },
+  {
+    "date": "18-10-2020",
+    "confirmed": 159726,
+    "recovered": 141752,
+    "deaths": 3638
+  },
+  {
+    "date": "19-10-2020",
+    "confirmed": 160722,
+    "recovered": 142899,
+    "deaths": 3646
+  },
+  {
+    "date": "20-10-2020",
+    "confirmed": 161848,
+    "recovered": 144027,
+    "deaths": 3654
+  },
+  {
+    "date": "21-10-2020",
+    "confirmed": 162985,
+    "recovered": 145207,
+    "deaths": 3663
+  },
+  {
+    "date": "22-10-2020",
+    "confirmed": 164121,
+    "recovered": 146408,
+    "deaths": 3670
+  },
+  {
+    "date": "23-10-2020",
+    "confirmed": 165233,
+    "recovered": 147672,
+    "deaths": 3676
+  },
+  {
+    "date": "24-10-2020",
+    "confirmed": 166254,
+    "recovered": 148685,
+    "deaths": 3682
+  },
+  {
+    "date": "25-10-2020",
+    "confirmed": 167173,
+    "recovered": 149648,
+    "deaths": 3689
+  },
+  {
+    "date": "26-10-2020",
+    "confirmed": 168081,
+    "recovered": 150750,
+    "deaths": 3693
+  },
+  {
+    "date": "27-10-2020",
+    "confirmed": 169073,
+    "recovered": 151988,
+    "deaths": 3698
+  },
+  {
+    "date": "28-10-2020",
+    "confirmed": 170053,
+    "recovered": 153095,
+    "deaths": 3704
+  },
+  {
+    "date": "29-10-2020",
+    "confirmed": 171040,
+    "recovered": 154178,
+    "deaths": 3708
+  },
+  {
+    "date": "30-10-2020",
+    "confirmed": 172009,
+    "recovered": 155205,
+    "deaths": 3714
+  },
+  {
+    "date": "31-10-2020",
+    "confirmed": 172944,
+    "recovered": 156219,
+    "deaths": 3719
+  },
+  {
+    "date": "01-11-2020",
+    "confirmed": 173804,
+    "recovered": 157347,
+    "deaths": 3724
+  },
+  {
+    "date": "02-11-2020",
+    "confirmed": 174679,
+    "recovered": 158351,
+    "deaths": 3728
+  },
+  {
+    "date": "03-11-2020",
+    "confirmed": 175633,
+    "recovered": 159548,
+    "deaths": 3734
+  },
+  {
+    "date": "04-11-2020",
+    "confirmed": 176608,
+    "recovered": 160570,
+    "deaths": 3740
+  },
+  {
+    "date": "05-11-2020",
+    "confirmed": 177598,
+    "recovered": 161625,
+    "deaths": 3747
+  },
+  {
+    "date": "06-11-2020",
+    "confirmed": 178633,
+    "recovered": 162946,
+    "deaths": 3751
+  },
+  {
+    "date": "07-11-2020",
+    "confirmed": 179679,
+    "recovered": 163877,
+    "deaths": 3756
+  },
+  {
+    "date": "08-11-2020",
+    "confirmed": 180699,
+    "recovered": 164696,
+    "deaths": 3763
+  },
+  {
+    "date": "09-11-2020",
+    "confirmed": 181670,
+    "recovered": 165689,
+    "deaths": 3768
+  },
+  {
+    "date": "10-11-2020",
+    "confirmed": 182719,
+    "recovered": 166568,
+    "deaths": 3773
+  },
+  {
+    "date": "11-11-2020",
+    "confirmed": 183844,
+    "recovered": 167920,
+    "deaths": 3779
+  },
+  {
+    "date": "12-11-2020",
+    "confirmed": 184964,
+    "recovered": 168958,
+    "deaths": 3785
+  },
+  {
+    "date": "13-11-2020",
+    "confirmed": 186116,
+    "recovered": 170036,
+    "deaths": 3791
+  },
+  {
+    "date": "14-11-2020",
+    "confirmed": 187240,
+    "recovered": 171031,
+    "deaths": 3797
+  },
+  {
+    "date": "15-11-2020",
+    "confirmed": 188310,
+    "recovered": 172032,
+    "deaths": 3803
+  },
+  {
+    "date": "16-11-2020",
+    "confirmed": 189236,
+    "recovered": 173072,
+    "deaths": 3808
+  },
+  {
+    "date": "17-11-2020",
+    "confirmed": 190361,
+    "recovered": 174188,
+    "deaths": 3815
+  },
+  {
+    "date": "18-11-2020",
+    "confirmed": 191642,
+    "recovered": 175462,
+    "deaths": 3823
+  },
+  {
+    "date": "19-11-2020",
+    "confirmed": 192982,
+    "recovered": 176575,
+    "deaths": 3830
+  },
+  {
+    "date": "20-11-2020",
+    "confirmed": 194402,
+    "recovered": 177615,
+    "deaths": 3837
+  },
+  {
+    "date": "21-11-2020",
+    "confirmed": 195917,
+    "recovered": 178886,
+    "deaths": 3846
+  },
+  {
+    "date": "22-11-2020",
+    "confirmed": 197412,
+    "recovered": 180053,
+    "deaths": 3859
+  },
+  {
+    "date": "23-11-2020",
+    "confirmed": 198899,
+    "recovered": 181287,
+    "deaths": 3876
+  },
+  {
+    "date": "24-11-2020",
+    "confirmed": 200409,
+    "recovered": 182573,
+    "deaths": 3892
+  },
+  {
+    "date": "25-11-2020",
+    "confirmed": 201949,
+    "recovered": 183856,
+    "deaths": 3906
+  },
+  {
+    "date": "26-11-2020",
+    "confirmed": 203509,
+    "recovered": 185158,
+    "deaths": 3922
+  },
+  {
+    "date": "27-11-2020",
+    "confirmed": 205116,
+    "recovered": 186546,
+    "deaths": 3938
+  },
+  {
+    "date": "28-11-2020",
+    "confirmed": 206714,
+    "recovered": 188069,
+    "deaths": 3953
+  },
+  {
+    "date": "29-11-2020",
+    "confirmed": 208278,
+    "recovered": 189520,
+    "deaths": 3969
+  },
+  {
+    "date": "30-11-2020",
+    "confirmed": 209780,
+    "recovered": 190921,
+    "deaths": 3989
+  },
+  {
+    "date": "01-12-2020",
+    "confirmed": 211257,
+    "recovered": 192468,
+    "deaths": 4004
+  },
+  {
+    "date": "02-12-2020",
+    "confirmed": 212769,
+    "recovered": 194038,
+    "deaths": 4018
+  },
+  {
+    "date": "03-12-2020",
+    "confirmed": 214309,
+    "recovered": 195465,
+    "deaths": 4031
+  },
+  {
+    "date": "04-12-2020",
+    "confirmed": 215819,
+    "recovered": 197092,
+    "deaths": 4049
+  },
+  {
+    "date": "05-12-2020",
+    "confirmed": 217333,
+    "recovered": 198627,
+    "deaths": 4064
+  },
+  {
+    "date": "06-12-2020",
+    "confirmed": 218788,
+    "recovered": 200112,
+    "deaths": 4081
+  },
+  {
+    "date": "07-12-2020",
+    "confirmed": 220168,
+    "recovered": 201680,
+    "deaths": 4095
+  },
+  {
+    "date": "08-12-2020",
+    "confirmed": 221493,
+    "recovered": 203211,
+    "deaths": 4110
+  },
+  {
+    "date": "09-12-2020",
+    "confirmed": 222811,
+    "recovered": 204761,
+    "deaths": 4123
+  },
+  {
+    "date": "10-12-2020",
+    "confirmed": 224081,
+    "recovered": 206226,
+    "deaths": 4135
+  },
+  {
+    "date": "11-12-2020",
+    "confirmed": 225304,
+    "recovered": 207629,
+    "deaths": 4148
+  },
+  {
+    "date": "12-12-2020",
+    "confirmed": 226508,
+    "recovered": 208967,
+    "deaths": 4160
+  },
+  {
+    "date": "13-12-2020",
+    "confirmed": 227683,
+    "recovered": 210314,
+    "deaths": 4171
+  },
+  {
+    "date": "14-12-2020",
+    "confirmed": 228803,
+    "recovered": 211703,
+    "deaths": 4182
+  },
+  {
+    "date": "15-12-2020",
+    "confirmed": 229913,
+    "recovered": 212939,
+    "deaths": 4193
+  },
+  {
+    "date": "16-12-2020",
+    "confirmed": 231073,
+    "recovered": 214323,
+    "deaths": 4203
+  },
+  {
+    "date": "17-12-2020",
+    "confirmed": 232188,
+    "recovered": 215628,
+    "deaths": 4211
+  },
+  {
+    "date": "18-12-2020",
+    "confirmed": 233263,
+    "recovered": 216783,
+    "deaths": 4220
+  },
+  {
+    "date": "19-12-2020",
+    "confirmed": 234289,
+    "recovered": 218035,
+    "deaths": 4227
+  },
+  {
+    "date": "20-12-2020",
+    "confirmed": 235299,
+    "recovered": 219225,
+    "deaths": 4234
+  },
+  {
+    "date": "21-12-2020",
+    "confirmed": 236259,
+    "recovered": 220493,
+    "deaths": 4241
+  },
+  {
+    "date": "22-12-2020",
+    "confirmed": 237247,
+    "recovered": 221702,
+    "deaths": 4248
+  },
+  {
+    "date": "23-12-2020",
+    "confirmed": 238205,
+    "recovered": 223011,
+    "deaths": 4254
+  },
+  {
+    "date": "24-12-2020",
+    "confirmed": 239195,
+    "recovered": 224192,
+    "deaths": 4262
+  },
+  {
+    "date": "25-12-2020",
+    "confirmed": 240105,
+    "recovered": 225306,
+    "deaths": 4268
+  },
+  {
+    "date": "26-12-2020",
+    "confirmed": 240995,
+    "recovered": 226308,
+    "deaths": 4275
+  },
+  {
+    "date": "27-12-2020",
+    "confirmed": 241845,
+    "recovered": 227228,
+    "deaths": 4282
+  },
+  {
+    "date": "28-12-2020",
+    "confirmed": 242655,
+    "recovered": 228244,
+    "deaths": 4288
+  },
+  {
+    "date": "29-12-2020",
+    "confirmed": 243459,
+    "recovered": 229243,
+    "deaths": 4295
+  },
+  {
+    "date": "30-12-2020",
+    "confirmed": 244258,
+    "recovered": 230077,
+    "deaths": 4302
+  },
+  {
+    "date": "31-12-2020",
+    "confirmed": 245038,
+    "recovered": 230993,
+    "deaths": 4306
+  },
+  {
+    "date": "01-01-2021",
+    "confirmed": 245772,
+    "recovered": 231900,
+    "deaths": 4309
+  },
+  {
+    "date": "02-01-2021",
+    "confirmed": 246513,
+    "recovered": 232822,
+    "deaths": 4314
+  },
+  {
+    "date": "03-01-2021",
+    "confirmed": 247228,
+    "recovered": 233760,
+    "deaths": 4318
+  },
+  {
+    "date": "04-01-2021",
+    "confirmed": 247926,
+    "recovered": 234658,
+    "deaths": 4321
+  },
+  {
+    "date": "05-01-2021",
+    "confirmed": 248581,
+    "recovered": 235526,
+    "deaths": 4325
+  },
+  {
+    "date": "06-01-2021",
+    "confirmed": 249246,
+    "recovered": 236423,
+    "deaths": 4329
+  },
+  {
+    "date": "07-01-2021",
+    "confirmed": 249913,
+    "recovered": 237322,
+    "deaths": 4332
+  },
+  {
+    "date": "08-01-2021",
+    "confirmed": 250598,
+    "recovered": 238214,
+    "deaths": 4335
+  },
+  {
+    "date": "09-01-2021",
+    "confirmed": 251273,
+    "recovered": 239065,
+    "deaths": 4340
+  },
+  {
+    "date": "10-01-2021",
+    "confirmed": 251944,
+    "recovered": 239871,
+    "deaths": 4344
+  },
+  {
+    "date": "11-01-2021",
+    "confirmed": 252559,
+    "recovered": 240617,
+    "deaths": 4347
+  },
+  {
+    "date": "12-01-2021",
+    "confirmed": 253161,
+    "recovered": 241472,
+    "deaths": 4350
+  },
+  {
+    "date": "13-01-2021",
+    "confirmed": 253744,
+    "recovered": 242264,
+    "deaths": 4354
+  },
+  {
+    "date": "14-01-2021",
+    "confirmed": 254314,
+    "recovered": 243001,
+    "deaths": 4357
+  },
+  {
+    "date": "15-01-2021",
+    "confirmed": 254849,
+    "recovered": 243739,
+    "deaths": 4360
+  },
+  {
+    "date": "16-01-2021",
+    "confirmed": 255354,
+    "recovered": 244503,
+    "deaths": 4363
+  },
+  {
+    "date": "17-01-2021",
+    "confirmed": 255872,
+    "recovered": 245207,
+    "deaths": 4365
+  },
+  {
+    "date": "18-01-2021",
+    "confirmed": 256367,
+    "recovered": 245907,
+    "deaths": 4367
+  },
+  {
+    "date": "19-01-2021",
+    "confirmed": 256852,
+    "recovered": 246616,
+    "deaths": 4369
+  },
+  {
+    "date": "20-01-2021",
+    "confirmed": 257342,
+    "recovered": 247323,
+    "deaths": 4371
+  },
+  {
+    "date": "21-01-2021",
+    "confirmed": 257813,
+    "recovered": 248050,
+    "deaths": 4372
+  },
+  {
+    "date": "22-01-2021",
+    "confirmed": 258264,
+    "recovered": 248750,
+    "deaths": 4374
+  },
+  {
+    "date": "23-01-2021",
+    "confirmed": 258687,
+    "recovered": 249452,
+    "deaths": 4375
+  },
+  {
+    "date": "24-01-2021",
+    "confirmed": 259097,
+    "recovered": 250156,
+    "deaths": 4376
+  },
+  {
+    "date": "25-01-2021",
+    "confirmed": 259487,
+    "recovered": 250863,
+    "deaths": 4379
+  },
+  {
+    "date": "26-01-2021",
+    "confirmed": 259867,
+    "recovered": 251500,
+    "deaths": 4381
+  },
+  {
+    "date": "27-01-2021",
+    "confirmed": 260220,
+    "recovered": 251962,
+    "deaths": 4382
+  },
+  {
+    "date": "28-01-2021",
+    "confirmed": 260566,
+    "recovered": 252564,
+    "deaths": 4384
+  },
+  {
+    "date": "29-01-2021",
+    "confirmed": 260901,
+    "recovered": 253027,
+    "deaths": 4385
+  },
+  {
+    "date": "30-01-2021",
+    "confirmed": 261224,
+    "recovered": 253468,
+    "deaths": 4387
+  },
+  {
+    "date": "31-01-2021",
+    "confirmed": 261540,
+    "recovered": 253803,
+    "deaths": 4387
+  },
+  {
+    "date": "01-02-2021",
+    "confirmed": 261838,
+    "recovered": 254209,
+    "deaths": 4388
+  },
+  {
+    "date": "02-02-2021",
+    "confirmed": 262123,
+    "recovered": 254631,
+    "deaths": 4389
+  },
+  {
+    "date": "03-02-2021",
+    "confirmed": 262406,
+    "recovered": 255159,
+    "deaths": 4391
+  },
+  {
+    "date": "04-02-2021",
+    "confirmed": 262681,
+    "recovered": 255489,
+    "deaths": 4392
+  },
+  {
+    "date": "05-02-2021",
+    "confirmed": 262948,
+    "recovered": 255914,
+    "deaths": 4393
+  },
+  {
+    "date": "06-02-2021",
+    "confirmed": 263200,
+    "recovered": 256315,
+    "deaths": 4394
+  },
+  {
+    "date": "07-02-2021",
+    "confirmed": 263444,
+    "recovered": 256670,
+    "deaths": 4395
+  },
+  {
+    "date": "08-02-2021",
+    "confirmed": 263676,
+    "recovered": 257120,
+    "deaths": 4396
+  },
+  {
+    "date": "09-02-2021",
+    "confirmed": 263910,
+    "recovered": 257473,
+    "deaths": 4397
+  },
+  {
+    "date": "10-02-2021",
+    "confirmed": 264165,
+    "recovered": 257968,
+    "deaths": 4397
+  },
+  {
+    "date": "11-02-2021",
+    "confirmed": 264450,
+    "recovered": 258270,
+    "deaths": 4399
+  },
+  {
+    "date": "12-02-2021",
+    "confirmed": 264718,
+    "recovered": 258551,
+    "deaths": 4400
+  },
+  {
+    "date": "13-02-2021",
+    "confirmed": 264997,
+    "recovered": 258834,
+    "deaths": 4400
+  },
+  {
+    "date": "14-02-2021",
+    "confirmed": 265244,
+    "recovered": 259104,
+    "deaths": 4401
+  },
+  {
+    "date": "15-02-2021",
+    "confirmed": 265493,
+    "recovered": 259384,
+    "deaths": 4401
+  },
+  {
+    "date": "16-02-2021",
+    "confirmed": 265756,
+    "recovered": 259655,
+    "deaths": 4402
+  },
+  {
+    "date": "17-02-2021",
+    "confirmed": 266034,
+    "recovered": 259928,
+    "deaths": 4403
+  },
+  {
+    "date": "18-02-2021",
+    "confirmed": 266297,
+    "recovered": 260198,
+    "deaths": 4403
+  },
+  {
+    "date": "19-02-2021",
+    "confirmed": 266563,
+    "recovered": 260475,
+    "deaths": 4404
+  },
+  {
+    "date": "20-02-2021",
+    "confirmed": 266821,
+    "recovered": 260745,
+    "deaths": 4404
+  },
+  {
+    "date": "21-02-2021",
+    "confirmed": 267104,
+    "recovered": 261009,
+    "deaths": 4405
+  },
+  {
+    "date": "22-02-2021",
+    "confirmed": 267419,
+    "recovered": 261281,
+    "deaths": 4406
+  },
+  {
+    "date": "23-02-2021",
+    "confirmed": 267767,
+    "recovered": 261575,
+    "deaths": 4406
+  },
+  {
+    "date": "24-02-2021",
+    "confirmed": 268147,
+    "recovered": 261871,
+    "deaths": 4407
+  },
+  {
+    "date": "25-02-2021",
+    "confirmed": 268571,
+    "recovered": 262172,
+    "deaths": 4408
+  },
+  {
+    "date": "26-02-2021",
+    "confirmed": 269031,
+    "recovered": 262487,
+    "deaths": 4408
+  },
+  {
+    "date": "27-02-2021",
+    "confirmed": 269482,
+    "recovered": 262815,
+    "deaths": 4409
+  },
+  {
+    "date": "28-02-2021",
+    "confirmed": 269889,
+    "recovered": 263116,
+    "deaths": 4410
+  },
+  {
+    "date": "01-03-2021",
+    "confirmed": 270316,
+    "recovered": 263476,
+    "deaths": 4411
+  },
+  {
+    "date": "02-03-2021",
+    "confirmed": 270770,
+    "recovered": 263837,
+    "deaths": 4411
+  },
+  {
+    "date": "03-03-2021",
+    "confirmed": 271245,
+    "recovered": 264195,
+    "deaths": 4412
+  },
+  {
+    "date": "04-03-2021",
+    "confirmed": 271725,
+    "recovered": 264564,
+    "deaths": 4412
+  },
+  {
+    "date": "05-03-2021",
+    "confirmed": 272240,
+    "recovered": 264969,
+    "deaths": 4413
+  },
+  {
+    "date": "06-03-2021",
+    "confirmed": 272811,
+    "recovered": 265372,
+    "deaths": 4414
+  },
+  {
+    "date": "07-03-2021",
+    "confirmed": 273386,
+    "recovered": 265831,
+    "deaths": 4415
+  },
+  {
+    "date": "08-03-2021",
+    "confirmed": 273941,
+    "recovered": 266313,
+    "deaths": 4416
+  },
+  {
+    "date": "09-03-2021",
+    "confirmed": 274522,
+    "recovered": 266766,
+    "deaths": 4418
+  },
+  {
+    "date": "10-03-2021",
+    "confirmed": 275197,
+    "recovered": 267250,
+    "deaths": 4418
+  },
+  {
+    "date": "11-03-2021",
+    "confirmed": 275907,
+    "recovered": 267701,
+    "deaths": 4418
+  },
+  {
+    "date": "12-03-2021",
+    "confirmed": 276622,
+    "recovered": 268196,
+    "deaths": 4420
+  },
+  {
+    "date": "13-03-2021",
+    "confirmed": 277397,
+    "recovered": 268775,
+    "deaths": 4422
+  },
+  {
+    "date": "14-03-2021",
+    "confirmed": 278207,
+    "recovered": 269361,
+    "deaths": 4424
+  },
+  {
+    "date": "15-03-2021",
+    "confirmed": 279097,
+    "recovered": 269955,
+    "deaths": 4425
+  },
+  {
+    "date": "16-03-2021",
+    "confirmed": 280051,
+    "recovered": 270658,
+    "deaths": 4427
+  },
+  {
+    "date": "17-03-2021",
+    "confirmed": 281173,
+    "recovered": 271433,
+    "deaths": 4430
+  },
+  {
+    "date": "18-03-2021",
+    "confirmed": 282449,
+    "recovered": 272332,
+    "deaths": 4433
+  },
+  {
+    "date": "19-03-2021",
+    "confirmed": 283864,
+    "recovered": 273280,
+    "deaths": 4437
+  },
+  {
+    "date": "20-03-2021",
+    "confirmed": 285429,
+    "recovered": 274249,
+    "deaths": 4443
+  },
+  {
+    "date": "21-03-2021",
+    "confirmed": 287009,
+    "recovered": 275238,
+    "deaths": 4450
+  },
+  {
+    "date": "22-03-2021",
+    "confirmed": 288649,
+    "recovered": 276348,
+    "deaths": 4454
+  },
+  {
+    "date": "23-03-2021",
+    "confirmed": 290379,
+    "recovered": 277603,
+    "deaths": 4458
+  },
+  {
+    "date": "24-03-2021",
+    "confirmed": 292169,
+    "recovered": 278880,
+    "deaths": 4466
+  },
+  {
+    "date": "25-03-2021",
+    "confirmed": 294130,
+    "recovered": 280285,
+    "deaths": 4473
+  },
+  {
+    "date": "26-03-2021",
+    "confirmed": 296320,
+    "recovered": 281707,
+    "deaths": 4479
+  },
+  {
+    "date": "27-03-2021",
+    "confirmed": 298596,
+    "recovered": 283241,
+    "deaths": 4484
+  },
+  {
+    "date": "28-03-2021",
+    "confirmed": 300866,
+    "recovered": 284846,
+    "deaths": 4492
+  },
+  {
+    "date": "29-03-2021",
+    "confirmed": 303118,
+    "recovered": 286577,
+    "deaths": 4500
+  },
+  {
+    "date": "30-03-2021",
+    "confirmed": 305338,
+    "recovered": 288565,
+    "deaths": 4510
+  },
+  {
+    "date": "31-03-2021",
+    "confirmed": 307698,
+    "recovered": 290569,
+    "deaths": 4519
+  },
+  {
+    "date": "01-04-2021",
+    "confirmed": 310108,
+    "recovered": 292584,
+    "deaths": 4528
+  },
+  {
+    "date": "02-04-2021",
+    "confirmed": 312748,
+    "recovered": 294650,
+    "deaths": 4539
+  },
+  {
+    "date": "03-04-2021",
+    "confirmed": 315563,
+    "recovered": 296713,
+    "deaths": 4552
+  },
+  {
+    "date": "04-04-2021",
+    "confirmed": 318438,
+    "recovered": 298737,
+    "deaths": 4566
+  },
+  {
+    "date": "05-04-2021",
+    "confirmed": 321598,
+    "recovered": 300765,
+    "deaths": 4581
+  },
+  {
+    "date": "06-04-2021",
+    "confirmed": 324878,
+    "recovered": 302932,
+    "deaths": 4598
+  },
+  {
+    "date": "07-04-2021",
+    "confirmed": 328453,
+    "recovered": 305149,
+    "deaths": 4620
+  },
+  {
+    "date": "08-04-2021",
+    "confirmed": 332474,
+    "recovered": 307346,
+    "deaths": 4655
+  },
+  {
+    "date": "09-04-2021",
+    "confirmed": 337015,
+    "recovered": 309626,
+    "deaths": 4697
+  },
+  {
+    "date": "10-04-2021",
+    "confirmed": 342026,
+    "recovered": 312151,
+    "deaths": 4746
+  },
+  {
+    "date": "11-04-2021",
+    "confirmed": 347495,
+    "recovered": 315127,
+    "deaths": 4800
+  },
+  {
+    "date": "12-04-2021",
+    "confirmed": 353516,
+    "recovered": 317981,
+    "deaths": 4855
+  },
+  {
+    "date": "13-04-2021",
+    "confirmed": 360206,
+    "recovered": 320729,
+    "deaths": 4922
+  },
+  {
+    "date": "14-04-2021",
+    "confirmed": 367616,
+    "recovered": 323371,
+    "deaths": 4995
+  },
+  {
+    "date": "15-04-2021",
+    "confirmed": 375768,
+    "recovered": 326394,
+    "deaths": 5076
+  },
+  {
+    "date": "16-04-2021",
+    "confirmed": 384688,
+    "recovered": 329781,
+    "deaths": 5170
+  },
+  {
+    "date": "17-04-2021",
+    "confirmed": 394229,
+    "recovered": 333564,
+    "deaths": 5267
+  },
+  {
+    "date": "18-04-2021",
+    "confirmed": 404569,
+    "recovered": 337545,
+    "deaths": 5377
+  },
+  {
+    "date": "19-04-2021",
+    "confirmed": 415972,
+    "recovered": 341724,
+    "deaths": 5494
+  },
+  {
+    "date": "20-04-2021",
+    "confirmed": 428178,
+    "recovered": 346063,
+    "deaths": 5615
+  },
+  {
+    "date": "21-04-2021",
+    "confirmed": 440731,
+    "recovered": 350865,
+    "deaths": 5740
+  },
+  {
+    "date": "22-04-2021",
+    "confirmed": 453836,
+    "recovered": 355875,
+    "deaths": 5877
+  },
+  {
+    "date": "23-04-2021",
+    "confirmed": 467640,
+    "recovered": 361493,
+    "deaths": 6019
+  },
+  {
+    "date": "24-04-2021",
+    "confirmed": 481737,
+    "recovered": 367972,
+    "deaths": 6171
+  },
+  {
+    "date": "25-04-2021",
+    "confirmed": 496033,
+    "recovered": 374699,
+    "deaths": 6328
+  },
+  {
+    "date": "26-04-2021",
+    "confirmed": 510373,
+    "recovered": 382426,
+    "deaths": 6486
+  },
+  {
+    "date": "27-04-2021",
+    "confirmed": 524725,
+    "recovered": 390229,
+    "deaths": 6656
+  },
+  {
+    "date": "28-04-2021",
+    "confirmed": 538845,
+    "recovered": 398824,
+    "deaths": 6830
+  },
+  {
+    "date": "29-04-2021",
+    "confirmed": 553172,
+    "recovered": 408368,
+    "deaths": 7010
+  },
+  {
+    "date": "30-04-2021",
+    "confirmed": 567777,
+    "recovered": 418548,
+    "deaths": 7183
+  },
+  {
+    "date": "01-05-2021",
+    "confirmed": 581624,
+    "recovered": 429130,
+    "deaths": 7355
+  },
+  {
+    "date": "02-05-2021",
+    "confirmed": 594602,
+    "recovered": 440276,
+    "deaths": 7508
+  },
+  {
+    "date": "03-05-2021",
+    "confirmed": 607422,
+    "recovered": 452275,
+    "deaths": 7648
+  },
+  {
+    "date": "04-05-2021",
+    "confirmed": 620472,
+    "recovered": 464396,
+    "deaths": 7779
+  },
+  {
+    "date": "05-05-2021",
+    "confirmed": 633427,
+    "recovered": 477391,
+    "deaths": 7912
+  },
+  {
+    "date": "06-05-2021",
+    "confirmed": 645972,
+    "recovered": 490412,
+    "deaths": 8035
+  },
+  {
+    "date": "07-05-2021",
+    "confirmed": 658036,
+    "recovered": 503497,
+    "deaths": 8154
+  },
+  {
+    "date": "08-05-2021",
+    "confirmed": 669928,
+    "recovered": 518234,
+    "deaths": 8273
+  },
+  {
+    "date": "09-05-2021",
+    "confirmed": 681012,
+    "recovered": 533004,
+    "deaths": 8394
+  },
+  {
+    "date": "10-05-2021",
+    "confirmed": 692604,
+    "recovered": 547935,
+    "deaths": 8511
+  },
+  {
+    "date": "11-05-2021",
+    "confirmed": 703594,
+    "recovered": 563133,
+    "deaths": 8629
+  },
+  {
+    "date": "12-05-2021",
+    "confirmed": 714611,
+    "recovered": 578397,
+    "deaths": 8731
+  },
+  {
+    "date": "13-05-2021",
+    "confirmed": 725353,
+    "recovered": 593666,
+    "deaths": 8840
+  },
+  {
+    "date": "14-05-2021",
+    "confirmed": 735348,
+    "recovered": 609031,
+    "deaths": 8944
+  },
+  {
+    "date": "15-05-2021",
+    "confirmed": 744409,
+    "recovered": 624107,
+    "deaths": 9039
+  },
+  {
+    "date": "16-05-2021",
+    "confirmed": 752619,
+    "recovered": 638590,
+    "deaths": 9121
+  },
+  {
+    "date": "17-05-2021",
+    "confirmed": 759754,
+    "recovered": 650932,
+    "deaths": 9202
+  },
+  {
+    "date": "18-05-2021",
+    "confirmed": 766201,
+    "recovered": 660489,
+    "deaths": 9269
+  },
+  {
+    "date": "19-05-2021",
+    "confirmed": 771447,
+    "recovered": 669490,
+    "deaths": 9340
+  },
+  {
+    "date": "20-05-2021",
+    "confirmed": 776220,
+    "recovered": 677798,
+    "deaths": 9404
+  },
+  {
+    "date": "21-05-2021",
+    "confirmed": 780471,
+    "recovered": 686581,
+    "deaths": 9469
+  },
+  {
+    "date": "22-05-2021",
+    "confirmed": 784676,
+    "recovered": 695026,
+    "deaths": 9523
+  },
+  {
+    "date": "23-05-2021",
+    "confirmed": 788470,
+    "recovered": 703760,
+    "deaths": 9576
+  },
+  {
+    "date": "24-05-2021",
+    "confirmed": 791657,
+    "recovered": 713065,
+    "deaths": 9621
+  },
+  {
+    "date": "25-05-2021",
+    "confirmed": 794912,
+    "recovered": 722741,
+    "deaths": 9665
+  },
+  {
+    "date": "26-05-2021",
+    "confirmed": 797997,
+    "recovered": 732748,
+    "deaths": 9701
+  },
+  {
+    "date": "27-05-2021",
+    "confirmed": 800866,
+    "recovered": 742050,
+    "deaths": 9734
+  },
+  {
+    "date": "28-05-2021",
+    "confirmed": 803387,
+    "recovered": 750015,
+    "deaths": 9761
+  },
+  {
+    "date": "29-05-2021",
+    "confirmed": 805617,
+    "recovered": 757124,
+    "deaths": 9790
+  },
+  {
+    "date": "30-05-2021",
+    "confirmed": 807488,
+    "recovered": 762270,
+    "deaths": 9815
+  },
+  {
+    "date": "31-05-2021",
+    "confirmed": 809169,
+    "recovered": 766991,
+    "deaths": 9833
+  },
+  {
+    "date": "01-06-2021",
+    "confirmed": 810730,
+    "recovered": 771860,
+    "deaths": 9855
+  },
+  {
+    "date": "02-06-2021",
+    "confirmed": 812063,
+    "recovered": 775958,
+    "deaths": 9873
+  },
+  {
+    "date": "03-06-2021",
+    "confirmed": 813270,
+    "recovered": 778976,
+    "deaths": 9890
+  },
+  {
+    "date": "04-06-2021",
+    "confirmed": 814390,
+    "recovered": 782374,
+    "deaths": 9906
+  },
+  {
+    "date": "05-06-2021",
+    "confirmed": 815386,
+    "recovered": 785378,
+    "deaths": 9921
+  },
+  {
+    "date": "06-06-2021",
+    "confirmed": 816234,
+    "recovered": 788293,
+    "deaths": 9933
+  },
+  {
+    "date": "07-06-2021",
+    "confirmed": 817012,
+    "recovered": 790906,
+    "deaths": 9944
+  },
+  {
+    "date": "08-06-2021",
+    "confirmed": 817707,
+    "recovered": 793028,
+    "deaths": 9955
+  },
+  {
+    "date": "09-06-2021",
+    "confirmed": 818351,
+    "recovered": 794703,
+    "deaths": 9965
+  },
+  {
+    "date": "10-06-2021",
+    "confirmed": 818895,
+    "recovered": 796208,
+    "deaths": 9976
+  },
+  {
+    "date": "11-06-2021",
+    "confirmed": 819376,
+    "recovered": 797734,
+    "deaths": 9985
+  },
+  {
+    "date": "12-06-2021",
+    "confirmed": 819866,
+    "recovered": 799012,
+    "deaths": 9991
+  },
+  {
+    "date": "13-06-2021",
+    "confirmed": 820321,
+    "recovered": 800075,
+    "deaths": 9997
+  },
+  {
+    "date": "14-06-2021",
+    "confirmed": 820726,
+    "recovered": 801181,
+    "deaths": 10003
+  },
+  {
+    "date": "15-06-2021",
+    "confirmed": 821078,
+    "recovered": 802187,
+    "deaths": 10007
+  },
+  {
+    "date": "16-06-2021",
+    "confirmed": 821376,
+    "recovered": 803122,
+    "deaths": 10012
+  },
+  {
+    "date": "17-06-2021",
+    "confirmed": 821659,
+    "recovered": 803892,
+    "deaths": 10018
+  },
+  {
+    "date": "18-06-2021",
+    "confirmed": 821921,
+    "recovered": 804668,
+    "deaths": 10023
+  },
+  {
+    "date": "19-06-2021",
+    "confirmed": 822149,
+    "recovered": 805542,
+    "deaths": 10028
+  },
+  {
+    "date": "20-06-2021",
+    "confirmed": 822334,
+    "recovered": 806193,
+    "deaths": 10032
+  },
+  {
+    "date": "21-06-2021",
+    "confirmed": 822485,
+    "recovered": 806812,
+    "deaths": 10034
+  },
+  {
+    "date": "22-06-2021",
+    "confirmed": 822620,
+    "recovered": 807424,
+    "deaths": 10037
+  },
+  {
+    "date": "23-06-2021",
+    "confirmed": 822758,
+    "recovered": 807911,
+    "deaths": 10040
+  },
+  {
+    "date": "24-06-2021",
+    "confirmed": 822887,
+    "recovered": 808418,
+    "deaths": 10042
+  },
+  {
+    "date": "25-06-2021",
+    "confirmed": 823010,
+    "recovered": 808849,
+    "deaths": 10045
+  },
+  {
+    "date": "26-06-2021",
+    "confirmed": 823132,
+    "recovered": 809201,
+    "deaths": 10048
+  },
+  {
+    "date": "27-06-2021",
+    "confirmed": 823244,
+    "recovered": 809506,
+    "deaths": 10051
+  },
+  {
+    "date": "28-06-2021",
+    "confirmed": 823340,
+    "recovered": 809821,
+    "deaths": 10054
+  },
+  {
+    "date": "29-06-2021",
+    "confirmed": 823433,
+    "recovered": 810147,
+    "deaths": 10056
+  },
+  {
+    "date": "30-06-2021",
+    "confirmed": 823523,
+    "recovered": 810451,
+    "deaths": 10059
+  },
+  {
+    "date": "01-07-2021",
+    "confirmed": 823607,
+    "recovered": 810751,
+    "deaths": 10062
+  },
+  {
+    "date": "02-07-2021",
+    "confirmed": 823687,
+    "recovered": 810979,
+    "deaths": 10064
+  },
+  {
+    "date": "03-07-2021",
+    "confirmed": 823763,
+    "recovered": 811169,
+    "deaths": 10067
+  },
+  {
+    "date": "04-07-2021",
+    "confirmed": 823833,
+    "recovered": 811297,
+    "deaths": 10069
+  },
+  {
+    "date": "05-07-2021",
+    "confirmed": 823895,
+    "recovered": 811491,
+    "deaths": 10071
+  },
+  {
+    "date": "06-07-2021",
+    "confirmed": 823964,
+    "recovered": 811699,
+    "deaths": 10072
+  },
+  {
+    "date": "07-07-2021",
+    "confirmed": 824029,
+    "recovered": 811988,
+    "deaths": 10072
+  },
+  {
+    "date": "08-07-2021",
+    "confirmed": 824091,
+    "recovered": 812522,
+    "deaths": 10072
+  },
+  {
+    "date": "09-07-2021",
+    "confirmed": 824147,
+    "recovered": 812718,
+    "deaths": 10073
+  },
+  {
+    "date": "10-07-2021",
+    "confirmed": 824200,
+    "recovered": 812976,
+    "deaths": 10073
+  },
+  {
+    "date": "11-07-2021",
+    "confirmed": 824242,
+    "recovered": 813238,
+    "deaths": 10073
+  },
+  {
+    "date": "12-07-2021",
+    "confirmed": 824274,
+    "recovered": 813399,
+    "deaths": 10074
+  },
+  {
+    "date": "13-07-2021",
+    "confirmed": 824305,
+    "recovered": 813512,
+    "deaths": 10074
+  },
+  {
+    "date": "14-07-2021",
+    "confirmed": 824346,
+    "recovered": 813583,
+    "deaths": 10074
+  },
+  {
+    "date": "15-07-2021",
+    "confirmed": 824384,
+    "recovered": 813673,
+    "deaths": 10074
+  },
+  {
+    "date": "16-07-2021",
+    "confirmed": 824423,
+    "recovered": 813743,
+    "deaths": 10074
+  },
+  {
+    "date": "17-07-2021",
+    "confirmed": 824460,
+    "recovered": 813853,
+    "deaths": 10075
+  },
+  {
+    "date": "18-07-2021",
+    "confirmed": 824493,
+    "recovered": 813924,
+    "deaths": 10076
+  },
+  {
+    "date": "19-07-2021",
+    "confirmed": 824517,
+    "recovered": 813998,
+    "deaths": 10076
+  },
+  {
+    "date": "20-07-2021",
+    "confirmed": 824546,
+    "recovered": 814059,
+    "deaths": 10076
+  },
+  {
+    "date": "21-07-2021",
+    "confirmed": 824574,
+    "recovered": 814109,
+    "deaths": 10076
+  },
+  {
+    "date": "22-07-2021",
+    "confirmed": 824608,
+    "recovered": 814162,
+    "deaths": 10076
+  },
+  {
+    "date": "23-07-2021",
+    "confirmed": 824644,
+    "recovered": 814223,
+    "deaths": 10076
+  },
+  {
+    "date": "24-07-2021",
+    "confirmed": 824683,
+    "recovered": 814265,
+    "deaths": 10076
+  },
+  {
+    "date": "25-07-2021",
+    "confirmed": 824713,
+    "recovered": 814307,
+    "deaths": 10076
+  },
+  {
+    "date": "26-07-2021",
+    "confirmed": 824744,
+    "recovered": 814356,
+    "deaths": 10076
+  },
+  {
+    "date": "27-07-2021",
+    "confirmed": 824774,
+    "recovered": 814413,
+    "deaths": 10076
+  },
+  {
+    "date": "28-07-2021",
+    "confirmed": 824802,
+    "recovered": 814452,
+    "deaths": 10076
+  },
+  {
+    "date": "29-07-2021",
+    "confirmed": 824829,
+    "recovered": 814485,
+    "deaths": 10076
+  },
+  {
+    "date": "30-07-2021",
+    "confirmed": 824850,
+    "recovered": 814514,
+    "deaths": 10076
+  },
+  {
+    "date": "31-07-2021",
+    "confirmed": 824877,
+    "recovered": 814549,
+    "deaths": 10076
+  }
+]

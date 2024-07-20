@@ -1,0 +1,31 @@
+.card {
+  margin: 1.5rem 0;
+}
+
+/* suscribe to email */
+.description {
+  font-size: 0.95rem;
+  color: var(--icon);
+  max-width: 600px;
+  margin: 1rem 0;
+}
+
+/* available services */
+.region_container {
+  margin: 1rem 0 !important;
+}
+.select {
+  width: 15rem !important;
+}
+.statename {
+  width: 15%;
+}
+.doctors {
+  width: 10%;
+}
+.beds {
+  width: 10%;
+}
+.quarantine {
+  width: 10%;
+}

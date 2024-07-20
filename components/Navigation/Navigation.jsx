@@ -33,12 +33,6 @@ const Navigation = ({ children }) => {
                 Dashboard
               </Link>
             </li>
-            <li className={checkActive("/predictions")}>
-              <Link href="/predictions">
-                <MdBatchPrediction />
-                Predictions
-              </Link>
-            </li>
             <li className={checkActive("/alert")}>
               <Link href="/alert">
                 <PiSealWarningFill />
