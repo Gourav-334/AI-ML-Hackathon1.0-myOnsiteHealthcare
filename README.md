@@ -24,8 +24,7 @@
 - Contains predictions tools with parallel pipelining style.
 
 ## LICENSE
-- Repositary licensed under ***Apache 2.0***.
-- Patent rights are owned by the team members.
+- Repositary licensed under ***MIT 2.0***.
 
 ## package_installer.exe
 - Installs required packages for running ML libraries in Python.
