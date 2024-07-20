@@ -2,6 +2,7 @@ import pickle
 import json
 import os
 import pandas as pd
+from statsmodels.tsa.api import VAR
 
 
 
@@ -19,13 +20,6 @@ def to_json(json_file, date, cell1, cell2, cell3):
 
 	file.write(f"{{\n\"Date\": \"{date}\",\n\"Confirmed\": {cell1},\n\"Recovered\": {cell2},\n\"Deceased\": {cell3}\n}}")
 	file.write(",\n")
-
-
-
-
-
-
-
 
 
 
@@ -61,12 +55,53 @@ def csv_to_json(csv_file, json_file):
 
 
 
-csv_to_json("Ahmedabad.csv", "Ahmedabad.json")
-csv_to_json("Amreli.csv", "Amreli.json")
-csv_to_json("Anand.csv", "Anand.json")
-csv_to_json("Aravali.csv", "Aravali.json")
-csv_to_json("Baruch.csv", "Baruch.json")
-csv_to_json("Bhavnagar.csv", "Bhavnagar.json")
-csv_to_json("Dahod.csv", "Dahod.json")
-csv_to_json("Gandhinagar.csv", "Gandhinagar.json")
-csv_to_json("Gujarat.csv", "Gujarat.json")
+def predictVAR(csv_file, pickle_file, date_index):
+    df = pd.read_csv(csv_file, parse_dates=['Date'])
+    df = df.sort_values(by='Date')
+
+    # Drop the 'Date' column as it's not used for training the VAR model
+    data = df.drop(columns=['Date'])
+
+    # Load the trained VAR model from the pickle file
+    with open(pickle_file, 'rb') as f:
+        loaded_model = pickle.load(f)
+
+    # Define a function to make predictions for a given date index
+    if date_index >= len(data) or date_index < loaded_model.k_ar:
+        raise ValueError("Date index out of range or not enough lag values.")
+    
+    # Prepare the input data for prediction
+    input_data = data.iloc[date_index - loaded_model.k_ar : date_index].values
+    
+    # Make prediction
+    prediction = loaded_model.forecast(y=input_data, steps=1)
+    
+    # Return the predicted values
+    predicted_confirmed, predicted_recovered, predicted_deceased = prediction[0]
+    
+    return {
+        'Date': df.iloc[date_index]['Date'],
+        'Confirmed': predicted_confirmed,
+        'Recovered': predicted_recovered,
+        'Deceased': predicted_deceased
+    }
+
+
+
+def insertCSV(csv_file, pickle_file):
+	file = open(csv_file, "a")
+
+	for i in range(500, 530):
+		argument = predictVAR(csv_file, pickle_file, i)["Confirmed"] + "," + predictVAR(csv_file, i)["Recovered"] + "," + predictVAR(csv_file, i)["Deceased"]
+		file.write(argument)
+
+
+
+
+
+
+
+
+
+
+insertCSV("Gujarat.csv", "Gujarat_trained.pkl")
